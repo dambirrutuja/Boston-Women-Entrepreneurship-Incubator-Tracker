@@ -1,0 +1,1304 @@
+[
+  {
+    "startup_id": 2,
+    "mentor_id": 65,
+    "role": "Lead Mentor",
+    "start_date": "2022-12-05",
+    "end_date": "2025-09-07"
+  },
+  {
+    "startup_id": 3,
+    "mentor_id": 74,
+    "role": "Lead Mentor",
+    "start_date": "2020-09-20",
+    "end_date": "2023-04-03"
+  },
+  {
+    "startup_id": 4,
+    "mentor_id": 42,
+    "role": "Lead Mentor",
+    "start_date": "2024-10-03",
+    "end_date": null
+  },
+  {
+    "startup_id": 5,
+    "mentor_id": 47,
+    "role": "Technical Mentor",
+    "start_date": "2021-04-11",
+    "end_date": null
+  },
+  {
+    "startup_id": 7,
+    "mentor_id": 22,
+    "role": "Lead Mentor",
+    "start_date": "2021-10-27",
+    "end_date": "2025-10-05"
+  },
+  {
+    "startup_id": 11,
+    "mentor_id": 48,
+    "role": "Technical Mentor",
+    "start_date": "2019-12-02",
+    "end_date": null
+  },
+  {
+    "startup_id": 11,
+    "mentor_id": 20,
+    "role": "Advisor",
+    "start_date": "2020-05-01",
+    "end_date": null
+  },
+  {
+    "startup_id": 11,
+    "mentor_id": 11,
+    "role": "Advisor",
+    "start_date": "2021-08-16",
+    "end_date": null
+  },
+  {
+    "startup_id": 12,
+    "mentor_id": 69,
+    "role": "Lead Mentor",
+    "start_date": "2023-09-25",
+    "end_date": null
+  },
+  {
+    "startup_id": 12,
+    "mentor_id": 28,
+    "role": "Technical Mentor",
+    "start_date": "2023-12-05",
+    "end_date": "2022-07-19"
+  },
+  {
+    "startup_id": 12,
+    "mentor_id": 27,
+    "role": "Lead Mentor",
+    "start_date": "2023-01-09",
+    "end_date": null
+  },
+  {
+    "startup_id": 14,
+    "mentor_id": 80,
+    "role": "Technical Mentor",
+    "start_date": "2022-11-01",
+    "end_date": null
+  },
+  {
+    "startup_id": 14,
+    "mentor_id": 35,
+    "role": "Lead Mentor",
+    "start_date": "2021-11-28",
+    "end_date": "2024-02-01"
+  },
+  {
+    "startup_id": 14,
+    "mentor_id": 7,
+    "role": "Technical Mentor",
+    "start_date": "2024-07-08",
+    "end_date": "2022-06-16"
+  },
+  {
+    "startup_id": 15,
+    "mentor_id": 12,
+    "role": "Technical Mentor",
+    "start_date": "2020-09-15",
+    "end_date": null
+  },
+  {
+    "startup_id": 15,
+    "mentor_id": 24,
+    "role": "Lead Mentor",
+    "start_date": "2019-01-08",
+    "end_date": "2024-06-16"
+  },
+  {
+    "startup_id": 16,
+    "mentor_id": 21,
+    "role": "Advisor",
+    "start_date": "2024-06-12",
+    "end_date": "2023-09-09"
+  },
+  {
+    "startup_id": 16,
+    "mentor_id": 3,
+    "role": "Advisor",
+    "start_date": "2024-05-13",
+    "end_date": "2022-09-09"
+  },
+  {
+    "startup_id": 16,
+    "mentor_id": 45,
+    "role": "Technical Mentor",
+    "start_date": "2020-06-13",
+    "end_date": "2022-12-13"
+  },
+  {
+    "startup_id": 17,
+    "mentor_id": 79,
+    "role": "Lead Mentor",
+    "start_date": "2020-10-05",
+    "end_date": null
+  },
+  {
+    "startup_id": 17,
+    "mentor_id": 30,
+    "role": "Advisor",
+    "start_date": "2023-06-15",
+    "end_date": null
+  },
+  {
+    "startup_id": 17,
+    "mentor_id": 54,
+    "role": "Advisor",
+    "start_date": "2024-03-19",
+    "end_date": null
+  },
+  {
+    "startup_id": 19,
+    "mentor_id": 68,
+    "role": "Technical Mentor",
+    "start_date": "2020-07-25",
+    "end_date": null
+  },
+  {
+    "startup_id": 21,
+    "mentor_id": 9,
+    "role": "Lead Mentor",
+    "start_date": "2023-09-24",
+    "end_date": null
+  },
+  {
+    "startup_id": 23,
+    "mentor_id": 4,
+    "role": "Advisor",
+    "start_date": "2022-05-15",
+    "end_date": "2024-03-25"
+  },
+  {
+    "startup_id": 23,
+    "mentor_id": 41,
+    "role": "Technical Mentor",
+    "start_date": "2019-03-06",
+    "end_date": null
+  },
+  {
+    "startup_id": 23,
+    "mentor_id": 53,
+    "role": "Advisor",
+    "start_date": "2023-05-20",
+    "end_date": null
+  },
+  {
+    "startup_id": 24,
+    "mentor_id": 30,
+    "role": "Technical Mentor",
+    "start_date": "2021-02-23",
+    "end_date": "2023-09-28"
+  },
+  {
+    "startup_id": 24,
+    "mentor_id": 4,
+    "role": "Lead Mentor",
+    "start_date": "2022-12-21",
+    "end_date": null
+  },
+  {
+    "startup_id": 25,
+    "mentor_id": 61,
+    "role": "Lead Mentor",
+    "start_date": "2020-03-07",
+    "end_date": null
+  },
+  {
+    "startup_id": 27,
+    "mentor_id": 53,
+    "role": "Lead Mentor",
+    "start_date": "2020-12-22",
+    "end_date": "2023-02-06"
+  },
+  {
+    "startup_id": 28,
+    "mentor_id": 63,
+    "role": "Advisor",
+    "start_date": "2022-04-14",
+    "end_date": null
+  },
+  {
+    "startup_id": 28,
+    "mentor_id": 42,
+    "role": "Lead Mentor",
+    "start_date": "2023-12-27",
+    "end_date": null
+  },
+  {
+    "startup_id": 29,
+    "mentor_id": 79,
+    "role": "Technical Mentor",
+    "start_date": "2024-10-20",
+    "end_date": null
+  },
+  {
+    "startup_id": 30,
+    "mentor_id": 5,
+    "role": "Lead Mentor",
+    "start_date": "2022-08-27",
+    "end_date": "2023-09-18"
+  },
+  {
+    "startup_id": 30,
+    "mentor_id": 67,
+    "role": "Technical Mentor",
+    "start_date": "2024-01-18",
+    "end_date": null
+  },
+  {
+    "startup_id": 30,
+    "mentor_id": 14,
+    "role": "Lead Mentor",
+    "start_date": "2019-04-10",
+    "end_date": null
+  },
+  {
+    "startup_id": 31,
+    "mentor_id": 60,
+    "role": "Advisor",
+    "start_date": "2020-07-10",
+    "end_date": "2022-12-17"
+  },
+  {
+    "startup_id": 32,
+    "mentor_id": 58,
+    "role": "Technical Mentor",
+    "start_date": "2019-12-17",
+    "end_date": null
+  },
+  {
+    "startup_id": 33,
+    "mentor_id": 70,
+    "role": "Lead Mentor",
+    "start_date": "2022-06-15",
+    "end_date": null
+  },
+  {
+    "startup_id": 33,
+    "mentor_id": 18,
+    "role": "Technical Mentor",
+    "start_date": "2023-12-07",
+    "end_date": "2022-05-11"
+  },
+  {
+    "startup_id": 33,
+    "mentor_id": 51,
+    "role": "Technical Mentor",
+    "start_date": "2024-12-26",
+    "end_date": null
+  },
+  {
+    "startup_id": 37,
+    "mentor_id": 58,
+    "role": "Lead Mentor",
+    "start_date": "2023-12-13",
+    "end_date": "2023-07-18"
+  },
+  {
+    "startup_id": 37,
+    "mentor_id": 47,
+    "role": "Technical Mentor",
+    "start_date": "2019-03-11",
+    "end_date": null
+  },
+  {
+    "startup_id": 37,
+    "mentor_id": 11,
+    "role": "Technical Mentor",
+    "start_date": "2020-03-28",
+    "end_date": null
+  },
+  {
+    "startup_id": 39,
+    "mentor_id": 40,
+    "role": "Advisor",
+    "start_date": "2021-12-25",
+    "end_date": "2024-11-06"
+  },
+  {
+    "startup_id": 43,
+    "mentor_id": 33,
+    "role": "Advisor",
+    "start_date": "2022-08-28",
+    "end_date": null
+  },
+  {
+    "startup_id": 43,
+    "mentor_id": 2,
+    "role": "Technical Mentor",
+    "start_date": "2023-08-08",
+    "end_date": null
+  },
+  {
+    "startup_id": 44,
+    "mentor_id": 59,
+    "role": "Lead Mentor",
+    "start_date": "2022-08-03",
+    "end_date": "2022-04-18"
+  },
+  {
+    "startup_id": 45,
+    "mentor_id": 72,
+    "role": "Lead Mentor",
+    "start_date": "2019-03-05",
+    "end_date": null
+  },
+  {
+    "startup_id": 45,
+    "mentor_id": 27,
+    "role": "Technical Mentor",
+    "start_date": "2019-03-28",
+    "end_date": null
+  },
+  {
+    "startup_id": 46,
+    "mentor_id": 39,
+    "role": "Advisor",
+    "start_date": "2019-01-04",
+    "end_date": null
+  },
+  {
+    "startup_id": 46,
+    "mentor_id": 43,
+    "role": "Technical Mentor",
+    "start_date": "2020-11-10",
+    "end_date": "2023-08-24"
+  },
+  {
+    "startup_id": 47,
+    "mentor_id": 5,
+    "role": "Lead Mentor",
+    "start_date": "2019-05-11",
+    "end_date": null
+  },
+  {
+    "startup_id": 49,
+    "mentor_id": 71,
+    "role": "Technical Mentor",
+    "start_date": "2019-05-16",
+    "end_date": null
+  },
+  {
+    "startup_id": 50,
+    "mentor_id": 43,
+    "role": "Advisor",
+    "start_date": "2023-07-17",
+    "end_date": null
+  },
+  {
+    "startup_id": 51,
+    "mentor_id": 8,
+    "role": "Advisor",
+    "start_date": "2023-12-21",
+    "end_date": null
+  },
+  {
+    "startup_id": 51,
+    "mentor_id": 14,
+    "role": "Lead Mentor",
+    "start_date": "2022-12-23",
+    "end_date": "2024-07-20"
+  },
+  {
+    "startup_id": 52,
+    "mentor_id": 68,
+    "role": "Technical Mentor",
+    "start_date": "2023-10-12",
+    "end_date": "2025-09-24"
+  },
+  {
+    "startup_id": 53,
+    "mentor_id": 64,
+    "role": "Advisor",
+    "start_date": "2020-10-08",
+    "end_date": "2023-01-04"
+  },
+  {
+    "startup_id": 54,
+    "mentor_id": 16,
+    "role": "Lead Mentor",
+    "start_date": "2024-04-26",
+    "end_date": "2025-07-02"
+  },
+  {
+    "startup_id": 55,
+    "mentor_id": 72,
+    "role": "Advisor",
+    "start_date": "2024-04-01",
+    "end_date": "2024-05-26"
+  },
+  {
+    "startup_id": 56,
+    "mentor_id": 39,
+    "role": "Lead Mentor",
+    "start_date": "2023-09-11",
+    "end_date": "2022-11-11"
+  },
+  {
+    "startup_id": 57,
+    "mentor_id": 73,
+    "role": "Lead Mentor",
+    "start_date": "2023-01-27",
+    "end_date": null
+  },
+  {
+    "startup_id": 58,
+    "mentor_id": 62,
+    "role": "Advisor",
+    "start_date": "2022-01-21",
+    "end_date": null
+  },
+  {
+    "startup_id": 59,
+    "mentor_id": 59,
+    "role": "Technical Mentor",
+    "start_date": "2022-07-24",
+    "end_date": null
+  },
+  {
+    "startup_id": 59,
+    "mentor_id": 69,
+    "role": "Technical Mentor",
+    "start_date": "2021-10-24",
+    "end_date": "2022-04-19"
+  },
+  {
+    "startup_id": 59,
+    "mentor_id": 43,
+    "role": "Lead Mentor",
+    "start_date": "2021-06-03",
+    "end_date": "2024-01-11"
+  },
+  {
+    "startup_id": 60,
+    "mentor_id": 69,
+    "role": "Lead Mentor",
+    "start_date": "2023-07-06",
+    "end_date": null
+  },
+  {
+    "startup_id": 60,
+    "mentor_id": 22,
+    "role": "Lead Mentor",
+    "start_date": "2024-06-23",
+    "end_date": null
+  },
+  {
+    "startup_id": 60,
+    "mentor_id": 74,
+    "role": "Lead Mentor",
+    "start_date": "2019-08-08",
+    "end_date": null
+  },
+  {
+    "startup_id": 62,
+    "mentor_id": 39,
+    "role": "Advisor",
+    "start_date": "2019-06-26",
+    "end_date": null
+  },
+  {
+    "startup_id": 62,
+    "mentor_id": 23,
+    "role": "Lead Mentor",
+    "start_date": "2019-08-17",
+    "end_date": null
+  },
+  {
+    "startup_id": 63,
+    "mentor_id": 20,
+    "role": "Advisor",
+    "start_date": "2021-08-24",
+    "end_date": "2024-06-05"
+  },
+  {
+    "startup_id": 63,
+    "mentor_id": 25,
+    "role": "Advisor",
+    "start_date": "2023-11-05",
+    "end_date": null
+  },
+  {
+    "startup_id": 64,
+    "mentor_id": 50,
+    "role": "Advisor",
+    "start_date": "2024-09-04",
+    "end_date": null
+  },
+  {
+    "startup_id": 65,
+    "mentor_id": 77,
+    "role": "Technical Mentor",
+    "start_date": "2022-01-04",
+    "end_date": null
+  },
+  {
+    "startup_id": 65,
+    "mentor_id": 12,
+    "role": "Lead Mentor",
+    "start_date": "2024-05-01",
+    "end_date": null
+  },
+  {
+    "startup_id": 65,
+    "mentor_id": 43,
+    "role": "Lead Mentor",
+    "start_date": "2024-04-11",
+    "end_date": null
+  },
+  {
+    "startup_id": 66,
+    "mentor_id": 69,
+    "role": "Advisor",
+    "start_date": "2021-08-22",
+    "end_date": null
+  },
+  {
+    "startup_id": 68,
+    "mentor_id": 15,
+    "role": "Advisor",
+    "start_date": "2019-10-18",
+    "end_date": null
+  },
+  {
+    "startup_id": 69,
+    "mentor_id": 45,
+    "role": "Advisor",
+    "start_date": "2021-05-05",
+    "end_date": "2024-10-08"
+  },
+  {
+    "startup_id": 69,
+    "mentor_id": 71,
+    "role": "Advisor",
+    "start_date": "2019-05-20",
+    "end_date": "2025-01-05"
+  },
+  {
+    "startup_id": 70,
+    "mentor_id": 7,
+    "role": "Lead Mentor",
+    "start_date": "2019-07-02",
+    "end_date": null
+  },
+  {
+    "startup_id": 72,
+    "mentor_id": 77,
+    "role": "Advisor",
+    "start_date": "2023-06-10",
+    "end_date": null
+  },
+  {
+    "startup_id": 72,
+    "mentor_id": 76,
+    "role": "Lead Mentor",
+    "start_date": "2024-11-26",
+    "end_date": null
+  },
+  {
+    "startup_id": 72,
+    "mentor_id": 58,
+    "role": "Lead Mentor",
+    "start_date": "2023-03-03",
+    "end_date": "2025-02-15"
+  },
+  {
+    "startup_id": 73,
+    "mentor_id": 60,
+    "role": "Advisor",
+    "start_date": "2020-03-28",
+    "end_date": "2024-06-13"
+  },
+  {
+    "startup_id": 73,
+    "mentor_id": 61,
+    "role": "Advisor",
+    "start_date": "2024-11-11",
+    "end_date": "2024-08-16"
+  },
+  {
+    "startup_id": 73,
+    "mentor_id": 30,
+    "role": "Lead Mentor",
+    "start_date": "2019-08-04",
+    "end_date": null
+  },
+  {
+    "startup_id": 75,
+    "mentor_id": 45,
+    "role": "Lead Mentor",
+    "start_date": "2023-10-05",
+    "end_date": null
+  },
+  {
+    "startup_id": 76,
+    "mentor_id": 14,
+    "role": "Lead Mentor",
+    "start_date": "2024-02-26",
+    "end_date": null
+  },
+  {
+    "startup_id": 76,
+    "mentor_id": 42,
+    "role": "Advisor",
+    "start_date": "2022-10-14",
+    "end_date": null
+  },
+  {
+    "startup_id": 76,
+    "mentor_id": 72,
+    "role": "Lead Mentor",
+    "start_date": "2023-03-16",
+    "end_date": null
+  },
+  {
+    "startup_id": 78,
+    "mentor_id": 76,
+    "role": "Technical Mentor",
+    "start_date": "2021-09-23",
+    "end_date": null
+  },
+  {
+    "startup_id": 78,
+    "mentor_id": 56,
+    "role": "Technical Mentor",
+    "start_date": "2024-02-24",
+    "end_date": "2025-02-19"
+  },
+  {
+    "startup_id": 78,
+    "mentor_id": 73,
+    "role": "Lead Mentor",
+    "start_date": "2022-06-18",
+    "end_date": null
+  },
+  {
+    "startup_id": 80,
+    "mentor_id": 52,
+    "role": "Technical Mentor",
+    "start_date": "2019-10-04",
+    "end_date": "2025-06-16"
+  },
+  {
+    "startup_id": 81,
+    "mentor_id": 8,
+    "role": "Advisor",
+    "start_date": "2020-10-25",
+    "end_date": "2022-03-22"
+  },
+  {
+    "startup_id": 81,
+    "mentor_id": 12,
+    "role": "Technical Mentor",
+    "start_date": "2022-09-10",
+    "end_date": null
+  },
+  {
+    "startup_id": 81,
+    "mentor_id": 28,
+    "role": "Technical Mentor",
+    "start_date": "2022-04-07",
+    "end_date": "2024-05-19"
+  },
+  {
+    "startup_id": 82,
+    "mentor_id": 56,
+    "role": "Technical Mentor",
+    "start_date": "2024-06-03",
+    "end_date": null
+  },
+  {
+    "startup_id": 83,
+    "mentor_id": 52,
+    "role": "Technical Mentor",
+    "start_date": "2021-01-12",
+    "end_date": "2022-01-23"
+  },
+  {
+    "startup_id": 83,
+    "mentor_id": 17,
+    "role": "Advisor",
+    "start_date": "2021-02-28",
+    "end_date": null
+  },
+  {
+    "startup_id": 85,
+    "mentor_id": 76,
+    "role": "Technical Mentor",
+    "start_date": "2022-11-11",
+    "end_date": "2025-07-14"
+  },
+  {
+    "startup_id": 87,
+    "mentor_id": 23,
+    "role": "Lead Mentor",
+    "start_date": "2020-09-13",
+    "end_date": "2024-07-05"
+  },
+  {
+    "startup_id": 87,
+    "mentor_id": 61,
+    "role": "Technical Mentor",
+    "start_date": "2024-03-05",
+    "end_date": null
+  },
+  {
+    "startup_id": 87,
+    "mentor_id": 18,
+    "role": "Advisor",
+    "start_date": "2019-03-24",
+    "end_date": "2025-03-03"
+  },
+  {
+    "startup_id": 88,
+    "mentor_id": 54,
+    "role": "Lead Mentor",
+    "start_date": "2022-10-06",
+    "end_date": null
+  },
+  {
+    "startup_id": 88,
+    "mentor_id": 59,
+    "role": "Advisor",
+    "start_date": "2023-08-13",
+    "end_date": null
+  },
+  {
+    "startup_id": 88,
+    "mentor_id": 78,
+    "role": "Technical Mentor",
+    "start_date": "2022-10-01",
+    "end_date": null
+  },
+  {
+    "startup_id": 90,
+    "mentor_id": 65,
+    "role": "Advisor",
+    "start_date": "2023-10-12",
+    "end_date": null
+  },
+  {
+    "startup_id": 90,
+    "mentor_id": 35,
+    "role": "Technical Mentor",
+    "start_date": "2023-08-23",
+    "end_date": null
+  },
+  {
+    "startup_id": 90,
+    "mentor_id": 53,
+    "role": "Technical Mentor",
+    "start_date": "2022-12-03",
+    "end_date": null
+  },
+  {
+    "startup_id": 91,
+    "mentor_id": 36,
+    "role": "Technical Mentor",
+    "start_date": "2023-02-17",
+    "end_date": "2022-04-16"
+  },
+  {
+    "startup_id": 91,
+    "mentor_id": 60,
+    "role": "Technical Mentor",
+    "start_date": "2024-11-22",
+    "end_date": null
+  },
+  {
+    "startup_id": 92,
+    "mentor_id": 75,
+    "role": "Advisor",
+    "start_date": "2023-01-11",
+    "end_date": null
+  },
+  {
+    "startup_id": 92,
+    "mentor_id": 40,
+    "role": "Lead Mentor",
+    "start_date": "2022-08-17",
+    "end_date": "2024-07-12"
+  },
+  {
+    "startup_id": 93,
+    "mentor_id": 22,
+    "role": "Lead Mentor",
+    "start_date": "2019-12-20",
+    "end_date": "2024-01-21"
+  },
+  {
+    "startup_id": 94,
+    "mentor_id": 22,
+    "role": "Advisor",
+    "start_date": "2019-11-10",
+    "end_date": "2022-05-16"
+  },
+  {
+    "startup_id": 94,
+    "mentor_id": 74,
+    "role": "Technical Mentor",
+    "start_date": "2020-09-03",
+    "end_date": "2024-05-05"
+  },
+  {
+    "startup_id": 95,
+    "mentor_id": 36,
+    "role": "Advisor",
+    "start_date": "2021-01-24",
+    "end_date": null
+  },
+  {
+    "startup_id": 96,
+    "mentor_id": 20,
+    "role": "Technical Mentor",
+    "start_date": "2021-03-09",
+    "end_date": "2023-08-06"
+  },
+  {
+    "startup_id": 96,
+    "mentor_id": 58,
+    "role": "Lead Mentor",
+    "start_date": "2019-06-03",
+    "end_date": "2023-08-25"
+  },
+  {
+    "startup_id": 97,
+    "mentor_id": 31,
+    "role": "Lead Mentor",
+    "start_date": "2024-08-24",
+    "end_date": "2023-10-24"
+  },
+  {
+    "startup_id": 99,
+    "mentor_id": 34,
+    "role": "Lead Mentor",
+    "start_date": "2020-08-13",
+    "end_date": null
+  },
+  {
+    "startup_id": 99,
+    "mentor_id": 15,
+    "role": "Technical Mentor",
+    "start_date": "2024-09-08",
+    "end_date": null
+  },
+  {
+    "startup_id": 99,
+    "mentor_id": 7,
+    "role": "Lead Mentor",
+    "start_date": "2022-08-09",
+    "end_date": null
+  },
+  {
+    "startup_id": 101,
+    "mentor_id": 58,
+    "role": "Technical Mentor",
+    "start_date": "2022-11-11",
+    "end_date": "2022-02-18"
+  },
+  {
+    "startup_id": 102,
+    "mentor_id": 56,
+    "role": "Lead Mentor",
+    "start_date": "2023-11-28",
+    "end_date": null
+  },
+  {
+    "startup_id": 103,
+    "mentor_id": 13,
+    "role": "Technical Mentor",
+    "start_date": "2021-11-19",
+    "end_date": null
+  },
+  {
+    "startup_id": 104,
+    "mentor_id": 31,
+    "role": "Advisor",
+    "start_date": "2023-06-22",
+    "end_date": "2023-06-18"
+  },
+  {
+    "startup_id": 104,
+    "mentor_id": 76,
+    "role": "Lead Mentor",
+    "start_date": "2024-01-27",
+    "end_date": null
+  },
+  {
+    "startup_id": 104,
+    "mentor_id": 25,
+    "role": "Lead Mentor",
+    "start_date": "2019-09-04",
+    "end_date": "2024-04-24"
+  },
+  {
+    "startup_id": 105,
+    "mentor_id": 25,
+    "role": "Technical Mentor",
+    "start_date": "2019-01-20",
+    "end_date": null
+  },
+  {
+    "startup_id": 106,
+    "mentor_id": 28,
+    "role": "Technical Mentor",
+    "start_date": "2024-02-03",
+    "end_date": "2023-07-22"
+  },
+  {
+    "startup_id": 106,
+    "mentor_id": 77,
+    "role": "Technical Mentor",
+    "start_date": "2023-03-04",
+    "end_date": "2024-05-15"
+  },
+  {
+    "startup_id": 106,
+    "mentor_id": 16,
+    "role": "Technical Mentor",
+    "start_date": "2019-11-15",
+    "end_date": "2024-07-23"
+  },
+  {
+    "startup_id": 107,
+    "mentor_id": 33,
+    "role": "Advisor",
+    "start_date": "2020-02-09",
+    "end_date": "2025-07-11"
+  },
+  {
+    "startup_id": 108,
+    "mentor_id": 34,
+    "role": "Advisor",
+    "start_date": "2020-08-03",
+    "end_date": null
+  },
+  {
+    "startup_id": 109,
+    "mentor_id": 51,
+    "role": "Lead Mentor",
+    "start_date": "2024-08-04",
+    "end_date": null
+  },
+  {
+    "startup_id": 109,
+    "mentor_id": 23,
+    "role": "Lead Mentor",
+    "start_date": "2020-10-21",
+    "end_date": null
+  },
+  {
+    "startup_id": 110,
+    "mentor_id": 34,
+    "role": "Advisor",
+    "start_date": "2019-02-19",
+    "end_date": "2025-01-16"
+  },
+  {
+    "startup_id": 110,
+    "mentor_id": 14,
+    "role": "Technical Mentor",
+    "start_date": "2024-11-01",
+    "end_date": "2025-05-05"
+  },
+  {
+    "startup_id": 110,
+    "mentor_id": 5,
+    "role": "Technical Mentor",
+    "start_date": "2021-07-19",
+    "end_date": null
+  },
+  {
+    "startup_id": 111,
+    "mentor_id": 62,
+    "role": "Advisor",
+    "start_date": "2022-07-28",
+    "end_date": "2022-09-08"
+  },
+  {
+    "startup_id": 112,
+    "mentor_id": 62,
+    "role": "Lead Mentor",
+    "start_date": "2019-10-18",
+    "end_date": "2024-06-22"
+  },
+  {
+    "startup_id": 113,
+    "mentor_id": 8,
+    "role": "Lead Mentor",
+    "start_date": "2024-11-03",
+    "end_date": null
+  },
+  {
+    "startup_id": 115,
+    "mentor_id": 38,
+    "role": "Lead Mentor",
+    "start_date": "2024-04-06",
+    "end_date": null
+  },
+  {
+    "startup_id": 116,
+    "mentor_id": 25,
+    "role": "Advisor",
+    "start_date": "2019-11-23",
+    "end_date": null
+  },
+  {
+    "startup_id": 116,
+    "mentor_id": 39,
+    "role": "Advisor",
+    "start_date": "2024-08-24",
+    "end_date": null
+  },
+  {
+    "startup_id": 116,
+    "mentor_id": 50,
+    "role": "Advisor",
+    "start_date": "2020-01-24",
+    "end_date": "2023-08-13"
+  },
+  {
+    "startup_id": 117,
+    "mentor_id": 40,
+    "role": "Advisor",
+    "start_date": "2023-08-01",
+    "end_date": null
+  },
+  {
+    "startup_id": 117,
+    "mentor_id": 64,
+    "role": "Advisor",
+    "start_date": "2021-12-02",
+    "end_date": null
+  },
+  {
+    "startup_id": 118,
+    "mentor_id": 67,
+    "role": "Advisor",
+    "start_date": "2020-12-19",
+    "end_date": null
+  },
+  {
+    "startup_id": 118,
+    "mentor_id": 59,
+    "role": "Advisor",
+    "start_date": "2019-12-05",
+    "end_date": null
+  },
+  {
+    "startup_id": 118,
+    "mentor_id": 69,
+    "role": "Technical Mentor",
+    "start_date": "2022-10-02",
+    "end_date": null
+  },
+  {
+    "startup_id": 18,
+    "mentor_id": 73,
+    "role": "Lead Mentor",
+    "start_date": "2024-05-04",
+    "end_date": null
+  },
+  {
+    "startup_id": 64,
+    "mentor_id": 58,
+    "role": "Advisor",
+    "start_date": "2024-11-13",
+    "end_date": null
+  },
+  {
+    "startup_id": 101,
+    "mentor_id": 27,
+    "role": "Lead Mentor",
+    "start_date": "2024-08-01",
+    "end_date": null
+  },
+  {
+    "startup_id": 115,
+    "mentor_id": 50,
+    "role": "Advisor",
+    "start_date": "2024-10-25",
+    "end_date": null
+  },
+  {
+    "startup_id": 99,
+    "mentor_id": 1,
+    "role": "Technical Mentor",
+    "start_date": "2024-08-09",
+    "end_date": null
+  },
+  {
+    "startup_id": 93,
+    "mentor_id": 30,
+    "role": "Technical Mentor",
+    "start_date": "2024-02-11",
+    "end_date": null
+  },
+  {
+    "startup_id": 4,
+    "mentor_id": 3,
+    "role": "Lead Mentor",
+    "start_date": "2024-11-18",
+    "end_date": null
+  },
+  {
+    "startup_id": 2,
+    "mentor_id": 49,
+    "role": "Technical Mentor",
+    "start_date": "2024-04-14",
+    "end_date": null
+  },
+  {
+    "startup_id": 93,
+    "mentor_id": 4,
+    "role": "Technical Mentor",
+    "start_date": "2024-04-25",
+    "end_date": null
+  },
+  {
+    "startup_id": 57,
+    "mentor_id": 64,
+    "role": "Technical Mentor",
+    "start_date": "2024-04-12",
+    "end_date": null
+  },
+  {
+    "startup_id": 30,
+    "mentor_id": 29,
+    "role": "Advisor",
+    "start_date": "2024-05-01",
+    "end_date": null
+  },
+  {
+    "startup_id": 54,
+    "mentor_id": 72,
+    "role": "Technical Mentor",
+    "start_date": "2024-02-06",
+    "end_date": null
+  },
+  {
+    "startup_id": 81,
+    "mentor_id": 38,
+    "role": "Lead Mentor",
+    "start_date": "2024-12-11",
+    "end_date": null
+  },
+  {
+    "startup_id": 115,
+    "mentor_id": 65,
+    "role": "Advisor",
+    "start_date": "2024-09-27",
+    "end_date": null
+  },
+  {
+    "startup_id": 117,
+    "mentor_id": 25,
+    "role": "Advisor",
+    "start_date": "2024-05-19",
+    "end_date": null
+  },
+  {
+    "startup_id": 113,
+    "mentor_id": 64,
+    "role": "Technical Mentor",
+    "start_date": "2024-07-19",
+    "end_date": null
+  },
+  {
+    "startup_id": 103,
+    "mentor_id": 52,
+    "role": "Advisor",
+    "start_date": "2024-11-06",
+    "end_date": null
+  },
+  {
+    "startup_id": 47,
+    "mentor_id": 71,
+    "role": "Technical Mentor",
+    "start_date": "2024-11-24",
+    "end_date": null
+  },
+  {
+    "startup_id": 48,
+    "mentor_id": 12,
+    "role": "Advisor",
+    "start_date": "2024-11-17",
+    "end_date": null
+  },
+  {
+    "startup_id": 14,
+    "mentor_id": 21,
+    "role": "Technical Mentor",
+    "start_date": "2024-07-12",
+    "end_date": null
+  },
+  {
+    "startup_id": 63,
+    "mentor_id": 4,
+    "role": "Advisor",
+    "start_date": "2024-01-10",
+    "end_date": null
+  },
+  {
+    "startup_id": 91,
+    "mentor_id": 79,
+    "role": "Technical Mentor",
+    "start_date": "2024-10-13",
+    "end_date": null
+  },
+  {
+    "startup_id": 83,
+    "mentor_id": 22,
+    "role": "Lead Mentor",
+    "start_date": "2024-09-08",
+    "end_date": null
+  },
+  {
+    "startup_id": 2,
+    "mentor_id": 26,
+    "role": "Technical Mentor",
+    "start_date": "2024-09-08",
+    "end_date": null
+  },
+  {
+    "startup_id": 52,
+    "mentor_id": 66,
+    "role": "Advisor",
+    "start_date": "2024-10-12",
+    "end_date": null
+  },
+  {
+    "startup_id": 59,
+    "mentor_id": 35,
+    "role": "Technical Mentor",
+    "start_date": "2024-09-20",
+    "end_date": null
+  },
+  {
+    "startup_id": 94,
+    "mentor_id": 1,
+    "role": "Advisor",
+    "start_date": "2024-12-17",
+    "end_date": null
+  },
+  {
+    "startup_id": 104,
+    "mentor_id": 17,
+    "role": "Technical Mentor",
+    "start_date": "2024-09-07",
+    "end_date": null
+  },
+  {
+    "startup_id": 55,
+    "mentor_id": 8,
+    "role": "Advisor",
+    "start_date": "2024-06-19",
+    "end_date": null
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "investor_id": 1,
+    "event_id": 41,
+    "role": "Sponsor"
+  },
+  {
+    "investor_id": 1,
+    "event_id": 28,
+    "role": "Sponsor"
+  },
+  {
+    "investor_id": 3,
+    "event_id": 4,
+    "role": "Speaker"
+  },
+  {
+    "investor_id": 3,
+    "event_id": 19,
+    "role": "Speaker"
+  },
+  {
+    "investor_id": 5,
+    "event_id": 49,
+    "role": "Judge"
+  },
+  {
+    "investor_id": 5,
+    "event_id": 27,
+    "role": "Panelist"
+  },
+  {
+    "investor_id": 6,
+    "event_id": 1,
+    "role": "Speaker"
+  },
+  {
+    "investor_id": 6,
+    "event_id": 30,
+    "role": "Speaker"
+  },
+  {
+    "investor_id": 7,
+    "event_id": 57,
+    "role": "Panelist"
+  },
+  {
+    "investor_id": 8,
+    "event_id": 7,
+    "role": "Sponsor"
+  },
+  {
+    "investor_id": 8,
+    "event_id": 22,
+    "role": "Speaker"
+  },
+  {
+    "investor_id": 9,
+    "event_id": 22,
+    "role": "Judge"
+  },
+  {
+    "investor_id": 9,
+    "event_id": 38,
+    "role": "Sponsor"
+  },
+  {
+    "investor_id": 12,
+    "event_id": 46,
+    "role": "Panelist"
+  },
+  {
+    "investor_id": 12,
+    "event_id": 5,
+    "role": "Judge"
+  },
+  {
+    "investor_id": 13,
+    "event_id": 9,
+    "role": "Panelist"
+  },
+  {
+    "investor_id": 13,
+    "event_id": 41,
+    "role": "Guest"
+  },
+  {
+    "investor_id": 14,
+    "event_id": 27,
+    "role": "Speaker"
+  },
+  {
+    "investor_id": 15,
+    "event_id": 29,
+    "role": "Judge"
+  },
+  {
+    "investor_id": 15,
+    "event_id": 12,
+    "role": "Judge"
+  },
+  {
+    "investor_id": 19,
+    "event_id": 38,
+    "role": "Speaker"
+  },
+  {
+    "investor_id": 20,
+    "event_id": 42,
+    "role": "Guest"
+  },
+  {
+    "investor_id": 20,
+    "event_id": 49,
+    "role": "Guest"
+  },
+  {
+    "investor_id": 21,
+    "event_id": 57,
+    "role": "Judge"
+  },
+  {
+    "investor_id": 21,
+    "event_id": 35,
+    "role": "Judge"
+  },
+  {
+    "investor_id": 22,
+    "event_id": 20,
+    "role": "Panelist"
+  },
+  {
+    "investor_id": 23,
+    "event_id": 19,
+    "role": "Guest"
+  },
+  {
+    "investor_id": 25,
+    "event_id": 38,
+    "role": "Judge"
+  },
+  {
+    "investor_id": 25,
+    "event_id": 43,
+    "role": "Sponsor"
+  },
+  {
+    "investor_id": 27,
+    "event_id": 53,
+    "role": "Panelist"
+  },
+  {
+    "investor_id": 27,
+    "event_id": 54,
+    "role": "Sponsor"
+  },
+  {
+    "investor_id": 28,
+    "event_id": 23,
+    "role": "Judge"
+  },
+  {
+    "investor_id": 32,
+    "event_id": 13,
+    "role": "Speaker"
+  },
+  {
+    "investor_id": 33,
+    "event_id": 39,
+    "role": "Guest"
+  },
+  {
+    "investor_id": 34,
+    "event_id": 37,
+    "role": "Panelist"
+  },
+  {
+    "investor_id": 34,
+    "event_id": 22,
+    "role": "Guest"
+  },
+  {
+    "investor_id": 35,
+    "event_id": 22,
+    "role": "Judge"
+  },
+  {
+    "investor_id": 37,
+    "event_id": 57,
+    "role": "Sponsor"
+  },
+  {
+    "investor_id": 38,
+    "event_id": 15,
+    "role": "Sponsor"
+  },
+  {
+    "investor_id": 41,
+    "event_id": 40,
+    "role": "Judge"
+  },
+  {
+    "investor_id": 43,
+    "event_id": 48,
+    "role": "Guest"
+  },
+  {
+    "investor_id": 44,
+    "event_id": 14,
+    "role": "Speaker"
+  },
+  {
+    "investor_id": 47,
+    "event_id": 1,
+    "role": "Sponsor"
+  },
+  {
+    "investor_id": 48,
+    "event_id": 2,
+    "role": "Panelist"
+  },
+  {
+    "investor_id": 51,
+    "event_id": 29,
+    "role": "Judge"
+  },
+  {
+    "investor_id": 52,
+    "event_id": 59,
+    "role": "Guest"
+  },
+  {
+    "investor_id": 52,
+    "event_id": 49,
+    "role": "Sponsor"
+  },
+  {
+    "investor_id": 56,
+    "event_id": 12,
+    "role": "Judge"
+  },
+  {
+    "investor_id": 57,
+    "event_id": 47,
+    "role": "Judge"
+  },
+  {
+    "investor_id": 58,
+    "event_id": 55,
+    "role": "Panelist"
+  }
+]

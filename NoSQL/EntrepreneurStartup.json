@@ -1,0 +1,1742 @@
+[
+  {
+    "entrepreneur_id": 105,
+    "startup_id": 1,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 102,
+    "startup_id": 2,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 1,
+    "startup_id": 3,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 65,
+    "startup_id": 3,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 30,
+    "startup_id": 4,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 83,
+    "startup_id": 5,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 36,
+    "startup_id": 5,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 21,
+    "startup_id": 6,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 92,
+    "startup_id": 7,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 105,
+    "startup_id": 7,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 104,
+    "startup_id": 8,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 15,
+    "startup_id": 9,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 62,
+    "startup_id": 9,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 76,
+    "startup_id": 10,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 107,
+    "startup_id": 11,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 53,
+    "startup_id": 11,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 17,
+    "startup_id": 12,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 81,
+    "startup_id": 13,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 19,
+    "startup_id": 14,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 8,
+    "startup_id": 14,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 67,
+    "startup_id": 15,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 73,
+    "startup_id": 16,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 82,
+    "startup_id": 16,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 28,
+    "startup_id": 17,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 61,
+    "startup_id": 18,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 62,
+    "startup_id": 18,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 77,
+    "startup_id": 19,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 106,
+    "startup_id": 20,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 99,
+    "startup_id": 20,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 93,
+    "startup_id": 21,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 77,
+    "startup_id": 22,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 49,
+    "startup_id": 23,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 14,
+    "startup_id": 24,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 67,
+    "startup_id": 25,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 78,
+    "startup_id": 26,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 61,
+    "startup_id": 27,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 65,
+    "startup_id": 28,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 97,
+    "startup_id": 28,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 85,
+    "startup_id": 29,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 70,
+    "startup_id": 30,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 106,
+    "startup_id": 30,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 54,
+    "startup_id": 31,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 48,
+    "startup_id": 31,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 103,
+    "startup_id": 32,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 45,
+    "startup_id": 33,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 18,
+    "startup_id": 34,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 99,
+    "startup_id": 35,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 37,
+    "startup_id": 36,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 25,
+    "startup_id": 37,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 96,
+    "startup_id": 38,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 102,
+    "startup_id": 38,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 1,
+    "startup_id": 39,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 49,
+    "startup_id": 39,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 47,
+    "startup_id": 40,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 55,
+    "startup_id": 41,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 110,
+    "startup_id": 42,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 47,
+    "startup_id": 43,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 79,
+    "startup_id": 43,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 53,
+    "startup_id": 44,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 48,
+    "startup_id": 45,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 40,
+    "startup_id": 46,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 51,
+    "startup_id": 47,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 95,
+    "startup_id": 47,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 30,
+    "startup_id": 48,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 58,
+    "startup_id": 48,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 66,
+    "startup_id": 49,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 103,
+    "startup_id": 50,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 50,
+    "startup_id": 51,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 106,
+    "startup_id": 52,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 77,
+    "startup_id": 53,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 9,
+    "startup_id": 54,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 48,
+    "startup_id": 55,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 5,
+    "startup_id": 56,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 93,
+    "startup_id": 56,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 84,
+    "startup_id": 57,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 67,
+    "startup_id": 57,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 82,
+    "startup_id": 58,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 2,
+    "startup_id": 59,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 103,
+    "startup_id": 60,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 67,
+    "startup_id": 60,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 101,
+    "startup_id": 61,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 22,
+    "startup_id": 62,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 87,
+    "startup_id": 62,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 84,
+    "startup_id": 63,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 12,
+    "startup_id": 64,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 46,
+    "startup_id": 65,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 76,
+    "startup_id": 66,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 2,
+    "startup_id": 67,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 95,
+    "startup_id": 67,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 37,
+    "startup_id": 68,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 93,
+    "startup_id": 68,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 29,
+    "startup_id": 69,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 52,
+    "startup_id": 70,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 23,
+    "startup_id": 71,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 14,
+    "startup_id": 72,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 72,
+    "startup_id": 72,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 15,
+    "startup_id": 73,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 105,
+    "startup_id": 74,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 102,
+    "startup_id": 74,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 73,
+    "startup_id": 75,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 97,
+    "startup_id": 76,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 88,
+    "startup_id": 77,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 4,
+    "startup_id": 78,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 62,
+    "startup_id": 78,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 49,
+    "startup_id": 79,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 90,
+    "startup_id": 80,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 30,
+    "startup_id": 80,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 67,
+    "startup_id": 81,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 107,
+    "startup_id": 82,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 34,
+    "startup_id": 82,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 52,
+    "startup_id": 83,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 71,
+    "startup_id": 84,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 41,
+    "startup_id": 85,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 74,
+    "startup_id": 86,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 96,
+    "startup_id": 87,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 95,
+    "startup_id": 88,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 95,
+    "startup_id": 89,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 27,
+    "startup_id": 90,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 107,
+    "startup_id": 91,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 46,
+    "startup_id": 92,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 20,
+    "startup_id": 92,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 87,
+    "startup_id": 93,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 1,
+    "startup_id": 94,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 98,
+    "startup_id": 94,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 80,
+    "startup_id": 95,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 74,
+    "startup_id": 96,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 24,
+    "startup_id": 97,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 29,
+    "startup_id": 98,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 68,
+    "startup_id": 99,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 70,
+    "startup_id": 100,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 45,
+    "startup_id": 101,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 51,
+    "startup_id": 101,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 90,
+    "startup_id": 102,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 89,
+    "startup_id": 103,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 87,
+    "startup_id": 104,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 75,
+    "startup_id": 105,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 47,
+    "startup_id": 106,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 71,
+    "startup_id": 107,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 35,
+    "startup_id": 108,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 44,
+    "startup_id": 109,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 47,
+    "startup_id": 109,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 27,
+    "startup_id": 110,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 97,
+    "startup_id": 111,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 48,
+    "startup_id": 111,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 58,
+    "startup_id": 112,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 17,
+    "startup_id": 113,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 74,
+    "startup_id": 113,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 35,
+    "startup_id": 114,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 103,
+    "startup_id": 114,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 26,
+    "startup_id": 115,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 20,
+    "startup_id": 116,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 61,
+    "startup_id": 116,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 64,
+    "startup_id": 117,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 67,
+    "startup_id": 118,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 69,
+    "startup_id": 118,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 33,
+    "startup_id": 119,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 13,
+    "startup_id": 120,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 8,
+    "startup_id": 28,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 61,
+    "startup_id": 108,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 58,
+    "startup_id": 96,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 34,
+    "startup_id": 47,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 45,
+    "startup_id": 3,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 16,
+    "startup_id": 45,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 74,
+    "startup_id": 74,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 100,
+    "startup_id": 37,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 42,
+    "startup_id": 87,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 100,
+    "startup_id": 95,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 11,
+    "startup_id": 49,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 60,
+    "startup_id": 81,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 22,
+    "startup_id": 82,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 54,
+    "startup_id": 81,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 109,
+    "startup_id": 117,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 11,
+    "startup_id": 21,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 30,
+    "startup_id": 41,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 84,
+    "startup_id": 38,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 78,
+    "startup_id": 83,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 100,
+    "startup_id": 111,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 96,
+    "startup_id": 76,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 53,
+    "startup_id": 22,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 110,
+    "startup_id": 3,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 94,
+    "startup_id": 31,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 96,
+    "startup_id": 90,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 27,
+    "startup_id": 22,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 14,
+    "startup_id": 13,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 61,
+    "startup_id": 71,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 4,
+    "startup_id": 99,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 68,
+    "startup_id": 98,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 14,
+    "startup_id": 34,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 11,
+    "startup_id": 84,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 40,
+    "startup_id": 30,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 95,
+    "startup_id": 37,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 81,
+    "startup_id": 17,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 68,
+    "startup_id": 108,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 4,
+    "startup_id": 5,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 42,
+    "startup_id": 111,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 60,
+    "startup_id": 112,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 71,
+    "startup_id": 57,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 90,
+    "startup_id": 70,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 76,
+    "startup_id": 77,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 81,
+    "startup_id": 96,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 68,
+    "startup_id": 82,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 45,
+    "startup_id": 62,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 104,
+    "startup_id": 12,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 40,
+    "startup_id": 47,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 34,
+    "startup_id": 20,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 2,
+    "startup_id": 1,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 45,
+    "startup_id": 37,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 69,
+    "startup_id": 2,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 97,
+    "startup_id": 62,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 2,
+    "startup_id": 99,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 103,
+    "startup_id": 38,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 102,
+    "startup_id": 1,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 25,
+    "startup_id": 53,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 51,
+    "startup_id": 32,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 92,
+    "startup_id": 95,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 107,
+    "startup_id": 49,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 34,
+    "startup_id": 11,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 81,
+    "startup_id": 31,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 37,
+    "startup_id": 84,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 53,
+    "startup_id": 25,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 24,
+    "startup_id": 18,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 15,
+    "startup_id": 82,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 80,
+    "startup_id": 58,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 25,
+    "startup_id": 42,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 20,
+    "startup_id": 7,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 24,
+    "startup_id": 14,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 35,
+    "startup_id": 17,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 94,
+    "startup_id": 2,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 12,
+    "startup_id": 20,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 64,
+    "startup_id": 28,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 54,
+    "startup_id": 40,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 48,
+    "startup_id": 60,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 43,
+    "startup_id": 11,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 8,
+    "startup_id": 35,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 10,
+    "startup_id": 70,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 24,
+    "startup_id": 25,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 105,
+    "startup_id": 49,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 16,
+    "startup_id": 99,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 50,
+    "startup_id": 99,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 32,
+    "startup_id": 95,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 26,
+    "startup_id": 59,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 67,
+    "startup_id": 86,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 61,
+    "startup_id": 50,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 42,
+    "startup_id": 21,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 96,
+    "startup_id": 120,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 33,
+    "startup_id": 62,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 26,
+    "startup_id": 47,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 86,
+    "startup_id": 28,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 31,
+    "startup_id": 82,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 42,
+    "startup_id": 2,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 102,
+    "startup_id": 36,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 51,
+    "startup_id": 102,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 2,
+    "startup_id": 6,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 89,
+    "startup_id": 77,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 48,
+    "startup_id": 99,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 32,
+    "startup_id": 21,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 12,
+    "startup_id": 88,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 98,
+    "startup_id": 81,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 8,
+    "startup_id": 46,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 90,
+    "startup_id": 69,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 17,
+    "startup_id": 63,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 41,
+    "startup_id": 72,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 104,
+    "startup_id": 115,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 94,
+    "startup_id": 25,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 89,
+    "startup_id": 49,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 93,
+    "startup_id": 18,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 6,
+    "startup_id": 63,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 72,
+    "startup_id": 38,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 25,
+    "startup_id": 73,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 70,
+    "startup_id": 45,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 94,
+    "startup_id": 60,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 107,
+    "startup_id": 77,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 9,
+    "startup_id": 68,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 58,
+    "startup_id": 38,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 70,
+    "startup_id": 47,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 1,
+    "startup_id": 100,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 94,
+    "startup_id": 24,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 80,
+    "startup_id": 110,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 100,
+    "startup_id": 80,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 42,
+    "startup_id": 93,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 85,
+    "startup_id": 69,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 25,
+    "startup_id": 68,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 99,
+    "startup_id": 71,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 79,
+    "startup_id": 37,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 53,
+    "startup_id": 83,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 15,
+    "startup_id": 13,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 6,
+    "startup_id": 107,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 23,
+    "startup_id": 112,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 26,
+    "startup_id": 14,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 25,
+    "startup_id": 13,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 74,
+    "startup_id": 83,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 85,
+    "startup_id": 63,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 7,
+    "startup_id": 47,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 78,
+    "startup_id": 92,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 2,
+    "startup_id": 120,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 60,
+    "startup_id": 103,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 47,
+    "startup_id": 72,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 106,
+    "startup_id": 48,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 106,
+    "startup_id": 79,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 68,
+    "startup_id": 6,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 107,
+    "startup_id": 39,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 28,
+    "startup_id": 67,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 13,
+    "startup_id": 93,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 69,
+    "startup_id": 50,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 73,
+    "startup_id": 81,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 72,
+    "startup_id": 96,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 96,
+    "startup_id": 14,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 87,
+    "startup_id": 59,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 14,
+    "startup_id": 22,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 71,
+    "startup_id": 52,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 85,
+    "startup_id": 21,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 46,
+    "startup_id": 116,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 71,
+    "startup_id": 42,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 53,
+    "startup_id": 98,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 106,
+    "startup_id": 93,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 78,
+    "startup_id": 31,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 49,
+    "startup_id": 99,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 47,
+    "startup_id": 58,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 51,
+    "startup_id": 1,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 37,
+    "startup_id": 77,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 67,
+    "startup_id": 18,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 28,
+    "startup_id": 110,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 3,
+    "startup_id": 99,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 71,
+    "startup_id": 66,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 13,
+    "startup_id": 5,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 46,
+    "startup_id": 20,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 30,
+    "startup_id": 33,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 12,
+    "startup_id": 74,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 73,
+    "startup_id": 118,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 94,
+    "startup_id": 10,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 102,
+    "startup_id": 62,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 63,
+    "startup_id": 106,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 77,
+    "startup_id": 83,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 5,
+    "startup_id": 94,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 11,
+    "startup_id": 100,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 99,
+    "startup_id": 43,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 105,
+    "startup_id": 56,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 16,
+    "startup_id": 112,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 96,
+    "startup_id": 84,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 82,
+    "startup_id": 100,
+    "role": "CEO"
+  },
+  {
+    "entrepreneur_id": 7,
+    "startup_id": 40,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 41,
+    "startup_id": 70,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 42,
+    "startup_id": 65,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 58,
+    "startup_id": 97,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 29,
+    "startup_id": 56,
+    "role": "CTO"
+  },
+  {
+    "entrepreneur_id": 101,
+    "startup_id": 51,
+    "role": "Co-Founder"
+  },
+  {
+    "entrepreneur_id": 17,
+    "startup_id": 44,
+    "role": "Founder"
+  },
+  {
+    "entrepreneur_id": 61,
+    "startup_id": 74,
+    "role": "Founder"
+  }
+]

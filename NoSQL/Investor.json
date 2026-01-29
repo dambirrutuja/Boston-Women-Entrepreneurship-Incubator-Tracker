@@ -1,0 +1,482 @@
+[
+  {
+    "investor_id": 1,
+    "organization": "VC Beta",
+    "capacity_min": 5000,
+    "capacity_max": 50000,
+    "preferred_industries": "Health,Biotech",
+    "person_id": 71
+  },
+  {
+    "investor_id": 2,
+    "organization": "VC Alpha",
+    "capacity_min": 5000,
+    "capacity_max": 25000,
+    "preferred_industries": "Health,Biotech",
+    "person_id": 216
+  },
+  {
+    "investor_id": 3,
+    "organization": "Syndicate Co",
+    "capacity_min": 5000,
+    "capacity_max": 100000,
+    "preferred_industries": "Tech,AI",
+    "person_id": 39
+  },
+  {
+    "investor_id": 4,
+    "organization": "Seed Fund",
+    "capacity_min": 10000,
+    "capacity_max": 200000,
+    "preferred_industries": "Sustainability,Fashion",
+    "person_id": 186
+  },
+  {
+    "investor_id": 5,
+    "organization": "Angel Group",
+    "capacity_min": 10000,
+    "capacity_max": 200000,
+    "preferred_industries": "Sustainability,Fashion",
+    "person_id": 183
+  },
+  {
+    "investor_id": 6,
+    "organization": "Angel Group",
+    "capacity_min": 10000,
+    "capacity_max": 50000,
+    "preferred_industries": "Sustainability,Fashion",
+    "person_id": 182
+  },
+  {
+    "investor_id": 7,
+    "organization": "VC Alpha",
+    "capacity_min": 5000,
+    "capacity_max": 25000,
+    "preferred_industries": "Tech,AI",
+    "person_id": 168
+  },
+  {
+    "investor_id": 8,
+    "organization": "Angel Group",
+    "capacity_min": 10000,
+    "capacity_max": 100000,
+    "preferred_industries": "EdTech",
+    "person_id": 43
+  },
+  {
+    "investor_id": 9,
+    "organization": "Angel Group",
+    "capacity_min": 10000,
+    "capacity_max": 100000,
+    "preferred_industries": "Sustainability,Fashion",
+    "person_id": 207
+  },
+  {
+    "investor_id": 10,
+    "organization": "VC Beta",
+    "capacity_min": 50000,
+    "capacity_max": 1000000,
+    "preferred_industries": "Sustainability,Fashion",
+    "person_id": 88
+  },
+  {
+    "investor_id": 11,
+    "organization": "VC Beta",
+    "capacity_min": 25000,
+    "capacity_max": 125000,
+    "preferred_industries": "Sustainability,Fashion",
+    "person_id": 131
+  },
+  {
+    "investor_id": 12,
+    "organization": "Angel Group",
+    "capacity_min": 5000,
+    "capacity_max": 100000,
+    "preferred_industries": "EdTech",
+    "person_id": 54
+  },
+  {
+    "investor_id": 13,
+    "organization": "Angel Group",
+    "capacity_min": 5000,
+    "capacity_max": 100000,
+    "preferred_industries": "Tech,AI",
+    "person_id": 30
+  },
+  {
+    "investor_id": 14,
+    "organization": "VC Alpha",
+    "capacity_min": 5000,
+    "capacity_max": 50000,
+    "preferred_industries": "FinTech,Data",
+    "person_id": 50
+  },
+  {
+    "investor_id": 15,
+    "organization": "Syndicate Co",
+    "capacity_min": 5000,
+    "capacity_max": 50000,
+    "preferred_industries": "Sustainability,Fashion",
+    "person_id": 33
+  },
+  {
+    "investor_id": 16,
+    "organization": "VC Beta",
+    "capacity_min": 50000,
+    "capacity_max": 1000000,
+    "preferred_industries": "Tech,AI",
+    "person_id": 59
+  },
+  {
+    "investor_id": 17,
+    "organization": "VC Beta",
+    "capacity_min": 10000,
+    "capacity_max": 200000,
+    "preferred_industries": "Health,Biotech",
+    "person_id": 127
+  },
+  {
+    "investor_id": 18,
+    "organization": "Seed Fund",
+    "capacity_min": 50000,
+    "capacity_max": 1000000,
+    "preferred_industries": "FinTech,Data",
+    "person_id": 7
+  },
+  {
+    "investor_id": 19,
+    "organization": "Seed Fund",
+    "capacity_min": 25000,
+    "capacity_max": 500000,
+    "preferred_industries": "FinTech,Data",
+    "person_id": 205
+  },
+  {
+    "investor_id": 20,
+    "organization": "Angel Group",
+    "capacity_min": 10000,
+    "capacity_max": 50000,
+    "preferred_industries": "Tech,AI",
+    "person_id": 139
+  },
+  {
+    "investor_id": 21,
+    "organization": "Angel Group",
+    "capacity_min": 50000,
+    "capacity_max": 1000000,
+    "preferred_industries": "EdTech",
+    "person_id": 152
+  },
+  {
+    "investor_id": 22,
+    "organization": "Angel Group",
+    "capacity_min": 25000,
+    "capacity_max": 125000,
+    "preferred_industries": "FinTech,Data",
+    "person_id": 90
+  },
+  {
+    "investor_id": 23,
+    "organization": "Seed Fund",
+    "capacity_min": 50000,
+    "capacity_max": 1000000,
+    "preferred_industries": "EdTech",
+    "person_id": 117
+  },
+  {
+    "investor_id": 24,
+    "organization": "Seed Fund",
+    "capacity_min": 10000,
+    "capacity_max": 50000,
+    "preferred_industries": "Health,Biotech",
+    "person_id": 213
+  },
+  {
+    "investor_id": 25,
+    "organization": "Syndicate Co",
+    "capacity_min": 25000,
+    "capacity_max": 125000,
+    "preferred_industries": "Tech,AI",
+    "person_id": 31
+  },
+  {
+    "investor_id": 26,
+    "organization": "Seed Fund",
+    "capacity_min": 5000,
+    "capacity_max": 100000,
+    "preferred_industries": "Sustainability,Fashion",
+    "person_id": 159
+  },
+  {
+    "investor_id": 27,
+    "organization": "Syndicate Co",
+    "capacity_min": 5000,
+    "capacity_max": 50000,
+    "preferred_industries": "Tech,AI",
+    "person_id": 25
+  },
+  {
+    "investor_id": 28,
+    "organization": "VC Alpha",
+    "capacity_min": 5000,
+    "capacity_max": 25000,
+    "preferred_industries": "EdTech",
+    "person_id": 19
+  },
+  {
+    "investor_id": 29,
+    "organization": "VC Beta",
+    "capacity_min": 25000,
+    "capacity_max": 250000,
+    "preferred_industries": "Health,Biotech",
+    "person_id": 72
+  },
+  {
+    "investor_id": 30,
+    "organization": "Seed Fund",
+    "capacity_min": 5000,
+    "capacity_max": 50000,
+    "preferred_industries": "EdTech",
+    "person_id": 98
+  },
+  {
+    "investor_id": 31,
+    "organization": "Angel Group",
+    "capacity_min": 10000,
+    "capacity_max": 100000,
+    "preferred_industries": "Sustainability,Fashion",
+    "person_id": 124
+  },
+  {
+    "investor_id": 32,
+    "organization": "VC Beta",
+    "capacity_min": 25000,
+    "capacity_max": 500000,
+    "preferred_industries": "FinTech,Data",
+    "person_id": 136
+  },
+  {
+    "investor_id": 33,
+    "organization": "Syndicate Co",
+    "capacity_min": 10000,
+    "capacity_max": 200000,
+    "preferred_industries": "EdTech",
+    "person_id": 104
+  },
+  {
+    "investor_id": 34,
+    "organization": "VC Alpha",
+    "capacity_min": 25000,
+    "capacity_max": 250000,
+    "preferred_industries": "Health,Biotech",
+    "person_id": 156
+  },
+  {
+    "investor_id": 35,
+    "organization": "Angel Group",
+    "capacity_min": 25000,
+    "capacity_max": 125000,
+    "preferred_industries": "Health,Biotech",
+    "person_id": 212
+  },
+  {
+    "investor_id": 36,
+    "organization": "VC Beta",
+    "capacity_min": 25000,
+    "capacity_max": 250000,
+    "preferred_industries": "Health,Biotech",
+    "person_id": 20
+  },
+  {
+    "investor_id": 37,
+    "organization": "VC Alpha",
+    "capacity_min": 50000,
+    "capacity_max": 500000,
+    "preferred_industries": "Sustainability,Fashion",
+    "person_id": 178
+  },
+  {
+    "investor_id": 38,
+    "organization": "VC Alpha",
+    "capacity_min": 25000,
+    "capacity_max": 250000,
+    "preferred_industries": "EdTech",
+    "person_id": 73
+  },
+  {
+    "investor_id": 39,
+    "organization": "Angel Group",
+    "capacity_min": 10000,
+    "capacity_max": 200000,
+    "preferred_industries": "EdTech",
+    "person_id": 153
+  },
+  {
+    "investor_id": 40,
+    "organization": "Angel Group",
+    "capacity_min": 25000,
+    "capacity_max": 125000,
+    "preferred_industries": "EdTech",
+    "person_id": 115
+  },
+  {
+    "investor_id": 41,
+    "organization": "Seed Fund",
+    "capacity_min": 25000,
+    "capacity_max": 500000,
+    "preferred_industries": "Tech,AI",
+    "person_id": 180
+  },
+  {
+    "investor_id": 42,
+    "organization": "Angel Group",
+    "capacity_min": 5000,
+    "capacity_max": 100000,
+    "preferred_industries": "Tech,AI",
+    "person_id": 133
+  },
+  {
+    "investor_id": 43,
+    "organization": "Syndicate Co",
+    "capacity_min": 50000,
+    "capacity_max": 1000000,
+    "preferred_industries": "Health,Biotech",
+    "person_id": 83
+  },
+  {
+    "investor_id": 44,
+    "organization": "Angel Group",
+    "capacity_min": 25000,
+    "capacity_max": 500000,
+    "preferred_industries": "EdTech",
+    "person_id": 154
+  },
+  {
+    "investor_id": 45,
+    "organization": "VC Beta",
+    "capacity_min": 10000,
+    "capacity_max": 100000,
+    "preferred_industries": "Sustainability,Fashion",
+    "person_id": 44
+  },
+  {
+    "investor_id": 46,
+    "organization": "Seed Fund",
+    "capacity_min": 25000,
+    "capacity_max": 125000,
+    "preferred_industries": "Sustainability,Fashion",
+    "person_id": 137
+  },
+  {
+    "investor_id": 47,
+    "organization": "Syndicate Co",
+    "capacity_min": 5000,
+    "capacity_max": 50000,
+    "preferred_industries": "FinTech,Data",
+    "person_id": 111
+  },
+  {
+    "investor_id": 48,
+    "organization": "Syndicate Co",
+    "capacity_min": 5000,
+    "capacity_max": 100000,
+    "preferred_industries": "Health,Biotech",
+    "person_id": 61
+  },
+  {
+    "investor_id": 49,
+    "organization": "Syndicate Co",
+    "capacity_min": 10000,
+    "capacity_max": 200000,
+    "preferred_industries": "Health,Biotech",
+    "person_id": 116
+  },
+  {
+    "investor_id": 50,
+    "organization": "VC Beta",
+    "capacity_min": 10000,
+    "capacity_max": 50000,
+    "preferred_industries": "EdTech",
+    "person_id": 189
+  },
+  {
+    "investor_id": 51,
+    "organization": "Syndicate Co",
+    "capacity_min": 10000,
+    "capacity_max": 200000,
+    "preferred_industries": "Sustainability,Fashion",
+    "person_id": 188
+  },
+  {
+    "investor_id": 52,
+    "organization": "VC Alpha",
+    "capacity_min": 5000,
+    "capacity_max": 25000,
+    "preferred_industries": "Sustainability,Fashion",
+    "person_id": 105
+  },
+  {
+    "investor_id": 53,
+    "organization": "Seed Fund",
+    "capacity_min": 5000,
+    "capacity_max": 50000,
+    "preferred_industries": "FinTech,Data",
+    "person_id": 16
+  },
+  {
+    "investor_id": 54,
+    "organization": "Seed Fund",
+    "capacity_min": 5000,
+    "capacity_max": 100000,
+    "preferred_industries": "Health,Biotech",
+    "person_id": 63
+  },
+  {
+    "investor_id": 55,
+    "organization": "Syndicate Co",
+    "capacity_min": 25000,
+    "capacity_max": 250000,
+    "preferred_industries": "Sustainability,Fashion",
+    "person_id": 145
+  },
+  {
+    "investor_id": 56,
+    "organization": "VC Beta",
+    "capacity_min": 5000,
+    "capacity_max": 25000,
+    "preferred_industries": "FinTech,Data",
+    "person_id": 36
+  },
+  {
+    "investor_id": 57,
+    "organization": "Angel Group",
+    "capacity_min": 25000,
+    "capacity_max": 500000,
+    "preferred_industries": "FinTech,Data",
+    "person_id": 23
+  },
+  {
+    "investor_id": 58,
+    "organization": "Syndicate Co",
+    "capacity_min": 10000,
+    "capacity_max": 100000,
+    "preferred_industries": "Sustainability,Fashion",
+    "person_id": 164
+  },
+  {
+    "investor_id": 59,
+    "organization": "VC Alpha",
+    "capacity_min": 5000,
+    "capacity_max": 100000,
+    "preferred_industries": "FinTech,Data",
+    "person_id": 215
+  },
+  {
+    "investor_id": 60,
+    "organization": "VC Beta",
+    "capacity_min": 10000,
+    "capacity_max": 200000,
+    "preferred_industries": "Sustainability,Fashion",
+    "person_id": 84
+  }
+]

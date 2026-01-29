@@ -1,0 +1,1282 @@
+[
+  {
+    "funding_id": 1,
+    "date_of_round": "2020-10-27",
+    "amount": 803110,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 73",
+    "startup_id": 73
+  },
+  {
+    "funding_id": 2,
+    "date_of_round": "2025-12-05",
+    "amount": 25007,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 50",
+    "startup_id": 50
+  },
+  {
+    "funding_id": 3,
+    "date_of_round": "2019-07-08",
+    "amount": 23405,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 7",
+    "startup_id": 7
+  },
+  {
+    "funding_id": 4,
+    "date_of_round": "2021-01-21",
+    "amount": 222683,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 100",
+    "startup_id": 100
+  },
+  {
+    "funding_id": 5,
+    "date_of_round": "2020-06-18",
+    "amount": 729554,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 63",
+    "startup_id": 63
+  },
+  {
+    "funding_id": 6,
+    "date_of_round": "2025-10-10",
+    "amount": 108524,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 11",
+    "startup_id": 11
+  },
+  {
+    "funding_id": 7,
+    "date_of_round": "2020-07-23",
+    "amount": 54793,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 35",
+    "startup_id": 35
+  },
+  {
+    "funding_id": 8,
+    "date_of_round": "2019-02-01",
+    "amount": 195578,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 47",
+    "startup_id": 47
+  },
+  {
+    "funding_id": 9,
+    "date_of_round": "2020-02-06",
+    "amount": 734653,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 14",
+    "startup_id": 14
+  },
+  {
+    "funding_id": 10,
+    "date_of_round": "2019-02-12",
+    "amount": 2511677,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 14",
+    "startup_id": 14
+  },
+  {
+    "funding_id": 11,
+    "date_of_round": "2022-01-10",
+    "amount": 716339,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 111",
+    "startup_id": 111
+  },
+  {
+    "funding_id": 12,
+    "date_of_round": "2023-04-19",
+    "amount": 2603499,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 93",
+    "startup_id": 93
+  },
+  {
+    "funding_id": 13,
+    "date_of_round": "2020-05-10",
+    "amount": 199449,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 22",
+    "startup_id": 22
+  },
+  {
+    "funding_id": 14,
+    "date_of_round": "2022-05-14",
+    "amount": 198738,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 22",
+    "startup_id": 22
+  },
+  {
+    "funding_id": 15,
+    "date_of_round": "2021-04-24",
+    "amount": 1556283,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 47",
+    "startup_id": 47
+  },
+  {
+    "funding_id": 16,
+    "date_of_round": "2019-03-10",
+    "amount": 11795,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 59",
+    "startup_id": 59
+  },
+  {
+    "funding_id": 17,
+    "date_of_round": "2023-07-26",
+    "amount": 390435,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 108",
+    "startup_id": 108
+  },
+  {
+    "funding_id": 18,
+    "date_of_round": "2025-11-20",
+    "amount": 46008,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 105",
+    "startup_id": 105
+  },
+  {
+    "funding_id": 19,
+    "date_of_round": "2021-03-13",
+    "amount": 366631,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 62",
+    "startup_id": 62
+  },
+  {
+    "funding_id": 20,
+    "date_of_round": "2025-04-11",
+    "amount": 684090,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 74",
+    "startup_id": 74
+  },
+  {
+    "funding_id": 21,
+    "date_of_round": "2019-10-07",
+    "amount": 2615912,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 47",
+    "startup_id": 47
+  },
+  {
+    "funding_id": 22,
+    "date_of_round": "2022-12-07",
+    "amount": 1678611,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 94",
+    "startup_id": 94
+  },
+  {
+    "funding_id": 23,
+    "date_of_round": "2025-07-22",
+    "amount": 1283507,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 105",
+    "startup_id": 105
+  },
+  {
+    "funding_id": 24,
+    "date_of_round": "2021-11-05",
+    "amount": 836723,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 31",
+    "startup_id": 31
+  },
+  {
+    "funding_id": 25,
+    "date_of_round": "2023-08-19",
+    "amount": 760310,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 58",
+    "startup_id": 58
+  },
+  {
+    "funding_id": 26,
+    "date_of_round": "2019-06-23",
+    "amount": 3112583,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 70",
+    "startup_id": 70
+  },
+  {
+    "funding_id": 27,
+    "date_of_round": "2025-04-22",
+    "amount": 346614,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 14",
+    "startup_id": 14
+  },
+  {
+    "funding_id": 28,
+    "date_of_round": "2024-11-21",
+    "amount": 890043,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 73",
+    "startup_id": 73
+  },
+  {
+    "funding_id": 29,
+    "date_of_round": "2022-02-01",
+    "amount": 22587,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 102",
+    "startup_id": 102
+  },
+  {
+    "funding_id": 30,
+    "date_of_round": "2021-07-15",
+    "amount": 2580893,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 58",
+    "startup_id": 58
+  },
+  {
+    "funding_id": 31,
+    "date_of_round": "2019-05-14",
+    "amount": 21160,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 62",
+    "startup_id": 62
+  },
+  {
+    "funding_id": 32,
+    "date_of_round": "2021-06-15",
+    "amount": 100844,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 45",
+    "startup_id": 45
+  },
+  {
+    "funding_id": 33,
+    "date_of_round": "2019-08-24",
+    "amount": 1391345,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 61",
+    "startup_id": 61
+  },
+  {
+    "funding_id": 34,
+    "date_of_round": "2025-12-04",
+    "amount": 11396,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 6",
+    "startup_id": 6
+  },
+  {
+    "funding_id": 35,
+    "date_of_round": "2025-03-24",
+    "amount": 100639,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 87",
+    "startup_id": 87
+  },
+  {
+    "funding_id": 36,
+    "date_of_round": "2023-07-15",
+    "amount": 111910,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 43",
+    "startup_id": 43
+  },
+  {
+    "funding_id": 37,
+    "date_of_round": "2024-11-14",
+    "amount": 608757,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 24",
+    "startup_id": 24
+  },
+  {
+    "funding_id": 38,
+    "date_of_round": "2023-07-13",
+    "amount": 10818,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 58",
+    "startup_id": 58
+  },
+  {
+    "funding_id": 39,
+    "date_of_round": "2025-12-26",
+    "amount": 25773,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 36",
+    "startup_id": 36
+  },
+  {
+    "funding_id": 40,
+    "date_of_round": "2021-04-15",
+    "amount": 22623,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 47",
+    "startup_id": 47
+  },
+  {
+    "funding_id": 41,
+    "date_of_round": "2024-06-20",
+    "amount": 783392,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 68",
+    "startup_id": 68
+  },
+  {
+    "funding_id": 42,
+    "date_of_round": "2021-08-20",
+    "amount": 56274,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 45",
+    "startup_id": 45
+  },
+  {
+    "funding_id": 43,
+    "date_of_round": "2023-10-03",
+    "amount": 46263,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 118",
+    "startup_id": 118
+  },
+  {
+    "funding_id": 44,
+    "date_of_round": "2019-03-12",
+    "amount": 50216,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 40",
+    "startup_id": 40
+  },
+  {
+    "funding_id": 45,
+    "date_of_round": "2020-10-13",
+    "amount": 655726,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 77",
+    "startup_id": 77
+  },
+  {
+    "funding_id": 46,
+    "date_of_round": "2020-08-10",
+    "amount": 43741,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 72",
+    "startup_id": 72
+  },
+  {
+    "funding_id": 47,
+    "date_of_round": "2019-06-01",
+    "amount": 1281920,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 80",
+    "startup_id": 80
+  },
+  {
+    "funding_id": 48,
+    "date_of_round": "2023-11-16",
+    "amount": 805409,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 72",
+    "startup_id": 72
+  },
+  {
+    "funding_id": 49,
+    "date_of_round": "2025-08-16",
+    "amount": 41653,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 91",
+    "startup_id": 91
+  },
+  {
+    "funding_id": 50,
+    "date_of_round": "2025-04-10",
+    "amount": 9099,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 102",
+    "startup_id": 102
+  },
+  {
+    "funding_id": 51,
+    "date_of_round": "2025-08-19",
+    "amount": 1529835,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 22",
+    "startup_id": 22
+  },
+  {
+    "funding_id": 52,
+    "date_of_round": "2019-05-25",
+    "amount": 3387939,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 74",
+    "startup_id": 74
+  },
+  {
+    "funding_id": 53,
+    "date_of_round": "2025-01-25",
+    "amount": 1527811,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 70",
+    "startup_id": 70
+  },
+  {
+    "funding_id": 54,
+    "date_of_round": "2024-11-25",
+    "amount": 91908,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 14",
+    "startup_id": 14
+  },
+  {
+    "funding_id": 55,
+    "date_of_round": "2021-06-28",
+    "amount": 24390,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 58",
+    "startup_id": 58
+  },
+  {
+    "funding_id": 56,
+    "date_of_round": "2025-04-07",
+    "amount": 457767,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 100",
+    "startup_id": 100
+  },
+  {
+    "funding_id": 57,
+    "date_of_round": "2023-03-26",
+    "amount": 112541,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 22",
+    "startup_id": 22
+  },
+  {
+    "funding_id": 58,
+    "date_of_round": "2021-09-09",
+    "amount": 2602052,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 73",
+    "startup_id": 73
+  },
+  {
+    "funding_id": 59,
+    "date_of_round": "2023-05-28",
+    "amount": 3582585,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 38",
+    "startup_id": 38
+  },
+  {
+    "funding_id": 60,
+    "date_of_round": "2025-07-02",
+    "amount": 229363,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 18",
+    "startup_id": 18
+  },
+  {
+    "funding_id": 61,
+    "date_of_round": "2025-03-08",
+    "amount": 54227,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 90",
+    "startup_id": 90
+  },
+  {
+    "funding_id": 62,
+    "date_of_round": "2025-11-13",
+    "amount": 1285302,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 98",
+    "startup_id": 98
+  },
+  {
+    "funding_id": 63,
+    "date_of_round": "2022-07-15",
+    "amount": 26336,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 81",
+    "startup_id": 81
+  },
+  {
+    "funding_id": 64,
+    "date_of_round": "2023-12-09",
+    "amount": 392751,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 52",
+    "startup_id": 52
+  },
+  {
+    "funding_id": 65,
+    "date_of_round": "2023-01-28",
+    "amount": 27309,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 42",
+    "startup_id": 42
+  },
+  {
+    "funding_id": 66,
+    "date_of_round": "2024-12-12",
+    "amount": 27956,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 82",
+    "startup_id": 82
+  },
+  {
+    "funding_id": 67,
+    "date_of_round": "2022-04-16",
+    "amount": 185829,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 28",
+    "startup_id": 28
+  },
+  {
+    "funding_id": 68,
+    "date_of_round": "2023-10-05",
+    "amount": 1672982,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 44",
+    "startup_id": 44
+  },
+  {
+    "funding_id": 69,
+    "date_of_round": "2019-11-26",
+    "amount": 1209768,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 6",
+    "startup_id": 6
+  },
+  {
+    "funding_id": 70,
+    "date_of_round": "2022-01-14",
+    "amount": 119827,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 57",
+    "startup_id": 57
+  },
+  {
+    "funding_id": 71,
+    "date_of_round": "2024-05-06",
+    "amount": 167467,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 113",
+    "startup_id": 113
+  },
+  {
+    "funding_id": 72,
+    "date_of_round": "2019-06-22",
+    "amount": 41035,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 33",
+    "startup_id": 33
+  },
+  {
+    "funding_id": 73,
+    "date_of_round": "2024-04-14",
+    "amount": 27036,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 93",
+    "startup_id": 93
+  },
+  {
+    "funding_id": 74,
+    "date_of_round": "2022-02-05",
+    "amount": 100777,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 28",
+    "startup_id": 28
+  },
+  {
+    "funding_id": 75,
+    "date_of_round": "2019-12-11",
+    "amount": 29881,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 2",
+    "startup_id": 2
+  },
+  {
+    "funding_id": 76,
+    "date_of_round": "2020-08-03",
+    "amount": 95322,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 89",
+    "startup_id": 89
+  },
+  {
+    "funding_id": 77,
+    "date_of_round": "2021-06-10",
+    "amount": 47654,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 14",
+    "startup_id": 14
+  },
+  {
+    "funding_id": 78,
+    "date_of_round": "2024-03-03",
+    "amount": 3075949,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 83",
+    "startup_id": 83
+  },
+  {
+    "funding_id": 79,
+    "date_of_round": "2021-12-07",
+    "amount": 58397,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 57",
+    "startup_id": 57
+  },
+  {
+    "funding_id": 80,
+    "date_of_round": "2020-02-04",
+    "amount": 55048,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 111",
+    "startup_id": 111
+  },
+  {
+    "funding_id": 81,
+    "date_of_round": "2022-06-26",
+    "amount": 44955,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 45",
+    "startup_id": 45
+  },
+  {
+    "funding_id": 82,
+    "date_of_round": "2023-10-20",
+    "amount": 222317,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 32",
+    "startup_id": 32
+  },
+  {
+    "funding_id": 83,
+    "date_of_round": "2025-11-10",
+    "amount": 100709,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 109",
+    "startup_id": 109
+  },
+  {
+    "funding_id": 84,
+    "date_of_round": "2022-05-21",
+    "amount": 11135,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 96",
+    "startup_id": 96
+  },
+  {
+    "funding_id": 85,
+    "date_of_round": "2022-02-08",
+    "amount": 1582849,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 64",
+    "startup_id": 64
+  },
+  {
+    "funding_id": 86,
+    "date_of_round": "2019-06-11",
+    "amount": 47736,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 68",
+    "startup_id": 68
+  },
+  {
+    "funding_id": 87,
+    "date_of_round": "2023-11-06",
+    "amount": 1772671,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 47",
+    "startup_id": 47
+  },
+  {
+    "funding_id": 88,
+    "date_of_round": "2023-02-01",
+    "amount": 177259,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 3",
+    "startup_id": 3
+  },
+  {
+    "funding_id": 89,
+    "date_of_round": "2022-09-10",
+    "amount": 3320532,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 102",
+    "startup_id": 102
+  },
+  {
+    "funding_id": 90,
+    "date_of_round": "2022-02-21",
+    "amount": 3045186,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 90",
+    "startup_id": 90
+  },
+  {
+    "funding_id": 91,
+    "date_of_round": "2019-05-03",
+    "amount": 3505109,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 36",
+    "startup_id": 36
+  },
+  {
+    "funding_id": 92,
+    "date_of_round": "2021-07-19",
+    "amount": 23101,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 69",
+    "startup_id": 69
+  },
+  {
+    "funding_id": 93,
+    "date_of_round": "2025-04-02",
+    "amount": 83448,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 94",
+    "startup_id": 94
+  },
+  {
+    "funding_id": 94,
+    "date_of_round": "2022-10-20",
+    "amount": 9237,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 15",
+    "startup_id": 15
+  },
+  {
+    "funding_id": 95,
+    "date_of_round": "2019-12-05",
+    "amount": 8655,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 16",
+    "startup_id": 16
+  },
+  {
+    "funding_id": 96,
+    "date_of_round": "2023-12-09",
+    "amount": 47437,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 67",
+    "startup_id": 67
+  },
+  {
+    "funding_id": 97,
+    "date_of_round": "2019-01-11",
+    "amount": 681594,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 94",
+    "startup_id": 94
+  },
+  {
+    "funding_id": 98,
+    "date_of_round": "2024-10-21",
+    "amount": 24961,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 34",
+    "startup_id": 34
+  },
+  {
+    "funding_id": 99,
+    "date_of_round": "2022-10-06",
+    "amount": 345169,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 8",
+    "startup_id": 8
+  },
+  {
+    "funding_id": 100,
+    "date_of_round": "2023-11-24",
+    "amount": 22284,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 115",
+    "startup_id": 115
+  },
+  {
+    "funding_id": 101,
+    "date_of_round": "2025-01-08",
+    "amount": 9887,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 6",
+    "startup_id": 6
+  },
+  {
+    "funding_id": 102,
+    "date_of_round": "2020-03-28",
+    "amount": 10211,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 118",
+    "startup_id": 118
+  },
+  {
+    "funding_id": 103,
+    "date_of_round": "2021-04-14",
+    "amount": 363401,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 29",
+    "startup_id": 29
+  },
+  {
+    "funding_id": 104,
+    "date_of_round": "2021-02-17",
+    "amount": 8717,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 74",
+    "startup_id": 74
+  },
+  {
+    "funding_id": 105,
+    "date_of_round": "2019-08-28",
+    "amount": 221882,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 52",
+    "startup_id": 52
+  },
+  {
+    "funding_id": 106,
+    "date_of_round": "2019-09-15",
+    "amount": 9475,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 42",
+    "startup_id": 42
+  },
+  {
+    "funding_id": 107,
+    "date_of_round": "2025-05-24",
+    "amount": 98557,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 73",
+    "startup_id": 73
+  },
+  {
+    "funding_id": 108,
+    "date_of_round": "2025-04-24",
+    "amount": 3312578,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 99",
+    "startup_id": 99
+  },
+  {
+    "funding_id": 109,
+    "date_of_round": "2019-07-01",
+    "amount": 101661,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 20",
+    "startup_id": 20
+  },
+  {
+    "funding_id": 110,
+    "date_of_round": "2019-11-13",
+    "amount": 168315,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 43",
+    "startup_id": 43
+  },
+  {
+    "funding_id": 111,
+    "date_of_round": "2022-01-05",
+    "amount": 167442,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 54",
+    "startup_id": 54
+  },
+  {
+    "funding_id": 112,
+    "date_of_round": "2025-09-14",
+    "amount": 393353,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 115",
+    "startup_id": 115
+  },
+  {
+    "funding_id": 113,
+    "date_of_round": "2019-09-05",
+    "amount": 622449,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 75",
+    "startup_id": 75
+  },
+  {
+    "funding_id": 114,
+    "date_of_round": "2024-03-08",
+    "amount": 180879,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 56",
+    "startup_id": 56
+  },
+  {
+    "funding_id": 115,
+    "date_of_round": "2025-07-23",
+    "amount": 370889,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 119",
+    "startup_id": 119
+  },
+  {
+    "funding_id": 116,
+    "date_of_round": "2019-04-05",
+    "amount": 21554,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 30",
+    "startup_id": 30
+  },
+  {
+    "funding_id": 117,
+    "date_of_round": "2022-06-14",
+    "amount": 25359,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 58",
+    "startup_id": 58
+  },
+  {
+    "funding_id": 118,
+    "date_of_round": "2021-08-09",
+    "amount": 20904,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 58",
+    "startup_id": 58
+  },
+  {
+    "funding_id": 119,
+    "date_of_round": "2024-12-20",
+    "amount": 8860,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 106",
+    "startup_id": 106
+  },
+  {
+    "funding_id": 120,
+    "date_of_round": "2019-12-08",
+    "amount": 383399,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 19",
+    "startup_id": 19
+  },
+  {
+    "funding_id": 121,
+    "date_of_round": "2021-05-27",
+    "amount": 40621,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 87",
+    "startup_id": 87
+  },
+  {
+    "funding_id": 122,
+    "date_of_round": "2022-09-24",
+    "amount": 2699823,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 110",
+    "startup_id": 110
+  },
+  {
+    "funding_id": 123,
+    "date_of_round": "2025-03-04",
+    "amount": 8246,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 14",
+    "startup_id": 14
+  },
+  {
+    "funding_id": 124,
+    "date_of_round": "2020-07-12",
+    "amount": 25823,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 17",
+    "startup_id": 17
+  },
+  {
+    "funding_id": 125,
+    "date_of_round": "2025-02-01",
+    "amount": 21977,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 118",
+    "startup_id": 118
+  },
+  {
+    "funding_id": 126,
+    "date_of_round": "2020-02-28",
+    "amount": 339604,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 104",
+    "startup_id": 104
+  },
+  {
+    "funding_id": 127,
+    "date_of_round": "2020-10-14",
+    "amount": 748837,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 7",
+    "startup_id": 7
+  },
+  {
+    "funding_id": 128,
+    "date_of_round": "2022-03-12",
+    "amount": 116332,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 88",
+    "startup_id": 88
+  },
+  {
+    "funding_id": 129,
+    "date_of_round": "2022-03-02",
+    "amount": 105891,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 36",
+    "startup_id": 36
+  },
+  {
+    "funding_id": 130,
+    "date_of_round": "2023-08-02",
+    "amount": 22797,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 53",
+    "startup_id": 53
+  },
+  {
+    "funding_id": 131,
+    "date_of_round": "2020-11-26",
+    "amount": 2698977,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 54",
+    "startup_id": 54
+  },
+  {
+    "funding_id": 132,
+    "date_of_round": "2025-12-12",
+    "amount": 1526710,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 49",
+    "startup_id": 49
+  },
+  {
+    "funding_id": 133,
+    "date_of_round": "2023-09-11",
+    "amount": 681130,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 45",
+    "startup_id": 45
+  },
+  {
+    "funding_id": 134,
+    "date_of_round": "2023-04-01",
+    "amount": 164687,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 41",
+    "startup_id": 41
+  },
+  {
+    "funding_id": 135,
+    "date_of_round": "2021-10-08",
+    "amount": 42002,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 68",
+    "startup_id": 68
+  },
+  {
+    "funding_id": 136,
+    "date_of_round": "2023-12-02",
+    "amount": 103027,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 35",
+    "startup_id": 35
+  },
+  {
+    "funding_id": 137,
+    "date_of_round": "2025-03-06",
+    "amount": 103700,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 46",
+    "startup_id": 46
+  },
+  {
+    "funding_id": 138,
+    "date_of_round": "2023-01-23",
+    "amount": 471609,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 117",
+    "startup_id": 117
+  },
+  {
+    "funding_id": 139,
+    "date_of_round": "2020-08-18",
+    "amount": 174044,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 73",
+    "startup_id": 73
+  },
+  {
+    "funding_id": 140,
+    "date_of_round": "2019-04-20",
+    "amount": 80797,
+    "round_stage": "Pre-Seed",
+    "notes": "Pre-Seed funding for startup 12",
+    "startup_id": 12
+  },
+  {
+    "funding_id": 141,
+    "date_of_round": "2021-10-07",
+    "amount": 46815,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 1",
+    "startup_id": 1
+  },
+  {
+    "funding_id": 142,
+    "date_of_round": "2025-06-02",
+    "amount": 8590,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 118",
+    "startup_id": 118
+  },
+  {
+    "funding_id": 143,
+    "date_of_round": "2019-09-28",
+    "amount": 473689,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 100",
+    "startup_id": 100
+  },
+  {
+    "funding_id": 144,
+    "date_of_round": "2024-07-19",
+    "amount": 23365,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 91",
+    "startup_id": 91
+  },
+  {
+    "funding_id": 145,
+    "date_of_round": "2020-12-14",
+    "amount": 1589508,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 18",
+    "startup_id": 18
+  },
+  {
+    "funding_id": 146,
+    "date_of_round": "2023-12-20",
+    "amount": 355717,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 91",
+    "startup_id": 91
+  },
+  {
+    "funding_id": 147,
+    "date_of_round": "2021-12-23",
+    "amount": 170187,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 49",
+    "startup_id": 49
+  },
+  {
+    "funding_id": 148,
+    "date_of_round": "2023-07-28",
+    "amount": 8728,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 90",
+    "startup_id": 90
+  },
+  {
+    "funding_id": 149,
+    "date_of_round": "2025-10-08",
+    "amount": 29366,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 118",
+    "startup_id": 118
+  },
+  {
+    "funding_id": 150,
+    "date_of_round": "2024-02-08",
+    "amount": 477180,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 43",
+    "startup_id": 43
+  },
+  {
+    "funding_id": 151,
+    "date_of_round": "2019-12-22",
+    "amount": 391460,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 82",
+    "startup_id": 82
+  },
+  {
+    "funding_id": 152,
+    "date_of_round": "2020-12-03",
+    "amount": 361065,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 27",
+    "startup_id": 27
+  },
+  {
+    "funding_id": 153,
+    "date_of_round": "2019-01-13",
+    "amount": 1639550,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 93",
+    "startup_id": 93
+  },
+  {
+    "funding_id": 154,
+    "date_of_round": "2022-08-13",
+    "amount": 407363,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 114",
+    "startup_id": 114
+  },
+  {
+    "funding_id": 155,
+    "date_of_round": "2022-10-21",
+    "amount": 86506,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 107",
+    "startup_id": 107
+  },
+  {
+    "funding_id": 156,
+    "date_of_round": "2025-01-10",
+    "amount": 9274,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 103",
+    "startup_id": 103
+  },
+  {
+    "funding_id": 157,
+    "date_of_round": "2021-03-13",
+    "amount": 54639,
+    "round_stage": "Seed",
+    "notes": "Seed funding for startup 10",
+    "startup_id": 10
+  },
+  {
+    "funding_id": 158,
+    "date_of_round": "2023-10-16",
+    "amount": 9725,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 44",
+    "startup_id": 44
+  },
+  {
+    "funding_id": 159,
+    "date_of_round": "2022-03-02",
+    "amount": 23310,
+    "round_stage": "Angel",
+    "notes": "Angel funding for startup 78",
+    "startup_id": 78
+  },
+  {
+    "funding_id": 160,
+    "date_of_round": "2024-09-24",
+    "amount": 2718317,
+    "round_stage": "Series A",
+    "notes": "Series A funding for startup 53",
+    "startup_id": 53
+  }
+]

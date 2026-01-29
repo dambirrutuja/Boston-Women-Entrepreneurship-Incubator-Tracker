@@ -1,0 +1,662 @@
+[
+  {
+    "entrepreneur_id": 1,
+    "university": "Harvard",
+    "major": "Economics",
+    "person_id": 162
+  },
+  {
+    "entrepreneur_id": 2,
+    "university": "MIT",
+    "major": "CS",
+    "person_id": 132
+  },
+  {
+    "entrepreneur_id": 3,
+    "university": "Harvard",
+    "major": "Biology",
+    "person_id": 148
+  },
+  {
+    "entrepreneur_id": 4,
+    "university": "Suffolk University",
+    "major": "Biology",
+    "person_id": 62
+  },
+  {
+    "entrepreneur_id": 5,
+    "university": "Harvard",
+    "major": "Design",
+    "person_id": 184
+  },
+  {
+    "entrepreneur_id": 6,
+    "university": "Tufts University",
+    "major": "Biology",
+    "person_id": 37
+  },
+  {
+    "entrepreneur_id": 7,
+    "university": "Boston University",
+    "major": "EE",
+    "person_id": 75
+  },
+  {
+    "entrepreneur_id": 8,
+    "university": "MIT",
+    "major": "Business",
+    "person_id": 110
+  },
+  {
+    "entrepreneur_id": 9,
+    "university": "Emerson College",
+    "major": "Economics",
+    "person_id": 1
+  },
+  {
+    "entrepreneur_id": 10,
+    "university": "Harvard",
+    "major": "Economics",
+    "person_id": 158
+  },
+  {
+    "entrepreneur_id": 11,
+    "university": "Tufts University",
+    "major": "Design",
+    "person_id": 91
+  },
+  {
+    "entrepreneur_id": 12,
+    "university": "Boston University",
+    "major": "Biology",
+    "person_id": 217
+  },
+  {
+    "entrepreneur_id": 13,
+    "university": "Harvard",
+    "major": "Design",
+    "person_id": 147
+  },
+  {
+    "entrepreneur_id": 14,
+    "university": "Harvard",
+    "major": "Business",
+    "person_id": 107
+  },
+  {
+    "entrepreneur_id": 15,
+    "university": "Harvard",
+    "major": "Data Science",
+    "person_id": 48
+  },
+  {
+    "entrepreneur_id": 16,
+    "university": "Harvard",
+    "major": "Biology",
+    "person_id": 171
+  },
+  {
+    "entrepreneur_id": 17,
+    "university": "Northeastern University",
+    "major": "Design",
+    "person_id": 172
+  },
+  {
+    "entrepreneur_id": 18,
+    "university": "Northeastern University",
+    "major": "Data Science",
+    "person_id": 22
+  },
+  {
+    "entrepreneur_id": 19,
+    "university": "Tufts University",
+    "major": "Data Science",
+    "person_id": 135
+  },
+  {
+    "entrepreneur_id": 20,
+    "university": "Northeastern University",
+    "major": "Business",
+    "person_id": 93
+  },
+  {
+    "entrepreneur_id": 21,
+    "university": "Emerson College",
+    "major": "Business",
+    "person_id": 18
+  },
+  {
+    "entrepreneur_id": 22,
+    "university": "Boston University",
+    "major": "CS",
+    "person_id": 202
+  },
+  {
+    "entrepreneur_id": 23,
+    "university": "Suffolk University",
+    "major": "EE",
+    "person_id": 140
+  },
+  {
+    "entrepreneur_id": 24,
+    "university": "Suffolk University",
+    "major": "Business",
+    "person_id": 130
+  },
+  {
+    "entrepreneur_id": 25,
+    "university": "Northeastern University",
+    "major": "CS",
+    "person_id": 197
+  },
+  {
+    "entrepreneur_id": 26,
+    "university": "MIT",
+    "major": "Economics",
+    "person_id": 142
+  },
+  {
+    "entrepreneur_id": 27,
+    "university": "Harvard",
+    "major": "CS",
+    "person_id": 6
+  },
+  {
+    "entrepreneur_id": 28,
+    "university": "Suffolk University",
+    "major": "EE",
+    "person_id": 100
+  },
+  {
+    "entrepreneur_id": 29,
+    "university": "Harvard",
+    "major": "Data Science",
+    "person_id": 121
+  },
+  {
+    "entrepreneur_id": 30,
+    "university": "Harvard",
+    "major": "Economics",
+    "person_id": 12
+  },
+  {
+    "entrepreneur_id": 31,
+    "university": "Harvard",
+    "major": "Business",
+    "person_id": 163
+  },
+  {
+    "entrepreneur_id": 32,
+    "university": "Northeastern University",
+    "major": "Biology",
+    "person_id": 193
+  },
+  {
+    "entrepreneur_id": 33,
+    "university": "Tufts University",
+    "major": "Business",
+    "person_id": 96
+  },
+  {
+    "entrepreneur_id": 34,
+    "university": "Suffolk University",
+    "major": "CS",
+    "person_id": 65
+  },
+  {
+    "entrepreneur_id": 35,
+    "university": "Harvard",
+    "major": "Data Science",
+    "person_id": 5
+  },
+  {
+    "entrepreneur_id": 36,
+    "university": "Boston University",
+    "major": "Data Science",
+    "person_id": 92
+  },
+  {
+    "entrepreneur_id": 37,
+    "university": "MIT",
+    "major": "Data Science",
+    "person_id": 200
+  },
+  {
+    "entrepreneur_id": 38,
+    "university": "Tufts University",
+    "major": "Business",
+    "person_id": 89
+  },
+  {
+    "entrepreneur_id": 39,
+    "university": "BC",
+    "major": "Biology",
+    "person_id": 209
+  },
+  {
+    "entrepreneur_id": 40,
+    "university": "Harvard",
+    "major": "CS",
+    "person_id": 169
+  },
+  {
+    "entrepreneur_id": 41,
+    "university": "MIT",
+    "major": "CS",
+    "person_id": 161
+  },
+  {
+    "entrepreneur_id": 42,
+    "university": "Boston University",
+    "major": "Economics",
+    "person_id": 27
+  },
+  {
+    "entrepreneur_id": 43,
+    "university": "Boston University",
+    "major": "Business",
+    "person_id": 149
+  },
+  {
+    "entrepreneur_id": 44,
+    "university": "BC",
+    "major": "Biology",
+    "person_id": 86
+  },
+  {
+    "entrepreneur_id": 45,
+    "university": "Tufts University",
+    "major": "Economics",
+    "person_id": 35
+  },
+  {
+    "entrepreneur_id": 46,
+    "university": "Harvard",
+    "major": "Business",
+    "person_id": 191
+  },
+  {
+    "entrepreneur_id": 47,
+    "university": "BC",
+    "major": "EE",
+    "person_id": 210
+  },
+  {
+    "entrepreneur_id": 48,
+    "university": "Harvard",
+    "major": "Biology",
+    "person_id": 198
+  },
+  {
+    "entrepreneur_id": 49,
+    "university": "Emerson College",
+    "major": "Biology",
+    "person_id": 87
+  },
+  {
+    "entrepreneur_id": 50,
+    "university": "Tufts University",
+    "major": "Data Science",
+    "person_id": 165
+  },
+  {
+    "entrepreneur_id": 51,
+    "university": "Emerson College",
+    "major": "Economics",
+    "person_id": 45
+  },
+  {
+    "entrepreneur_id": 52,
+    "university": "Suffolk University",
+    "major": "Data Science",
+    "person_id": 119
+  },
+  {
+    "entrepreneur_id": 53,
+    "university": "Emerson College",
+    "major": "Economics",
+    "person_id": 123
+  },
+  {
+    "entrepreneur_id": 54,
+    "university": "Boston University",
+    "major": "CS",
+    "person_id": 220
+  },
+  {
+    "entrepreneur_id": 55,
+    "university": "Boston University",
+    "major": "Economics",
+    "person_id": 47
+  },
+  {
+    "entrepreneur_id": 56,
+    "university": "MIT",
+    "major": "Data Science",
+    "person_id": 176
+  },
+  {
+    "entrepreneur_id": 57,
+    "university": "Boston University",
+    "major": "CS",
+    "person_id": 17
+  },
+  {
+    "entrepreneur_id": 58,
+    "university": "Emerson College",
+    "major": "Design",
+    "person_id": 118
+  },
+  {
+    "entrepreneur_id": 59,
+    "university": "Suffolk University",
+    "major": "Data Science",
+    "person_id": 10
+  },
+  {
+    "entrepreneur_id": 60,
+    "university": "Suffolk University",
+    "major": "EE",
+    "person_id": 76
+  },
+  {
+    "entrepreneur_id": 61,
+    "university": "Emerson College",
+    "major": "Data Science",
+    "person_id": 52
+  },
+  {
+    "entrepreneur_id": 62,
+    "university": "BC",
+    "major": "Design",
+    "person_id": 175
+  },
+  {
+    "entrepreneur_id": 63,
+    "university": "MIT",
+    "major": "Data Science",
+    "person_id": 160
+  },
+  {
+    "entrepreneur_id": 64,
+    "university": "Boston University",
+    "major": "Biology",
+    "person_id": 11
+  },
+  {
+    "entrepreneur_id": 65,
+    "university": "Suffolk University",
+    "major": "CS",
+    "person_id": 81
+  },
+  {
+    "entrepreneur_id": 66,
+    "university": "Emerson College",
+    "major": "Biology",
+    "person_id": 80
+  },
+  {
+    "entrepreneur_id": 67,
+    "university": "MIT",
+    "major": "CS",
+    "person_id": 219
+  },
+  {
+    "entrepreneur_id": 68,
+    "university": "Tufts University",
+    "major": "Economics",
+    "person_id": 102
+  },
+  {
+    "entrepreneur_id": 69,
+    "university": "BC",
+    "major": "CS",
+    "person_id": 173
+  },
+  {
+    "entrepreneur_id": 70,
+    "university": "Northeastern University",
+    "major": "Economics",
+    "person_id": 122
+  },
+  {
+    "entrepreneur_id": 71,
+    "university": "BC",
+    "major": "Design",
+    "person_id": 187
+  },
+  {
+    "entrepreneur_id": 72,
+    "university": "Harvard",
+    "major": "Biology",
+    "person_id": 167
+  },
+  {
+    "entrepreneur_id": 73,
+    "university": "Northeastern University",
+    "major": "Biology",
+    "person_id": 49
+  },
+  {
+    "entrepreneur_id": 74,
+    "university": "BC",
+    "major": "Economics",
+    "person_id": 74
+  },
+  {
+    "entrepreneur_id": 75,
+    "university": "Emerson College",
+    "major": "EE",
+    "person_id": 185
+  },
+  {
+    "entrepreneur_id": 76,
+    "university": "MIT",
+    "major": "CS",
+    "person_id": 13
+  },
+  {
+    "entrepreneur_id": 77,
+    "university": "Boston University",
+    "major": "Design",
+    "person_id": 85
+  },
+  {
+    "entrepreneur_id": 78,
+    "university": "Suffolk University",
+    "major": "Data Science",
+    "person_id": 70
+  },
+  {
+    "entrepreneur_id": 79,
+    "university": "Suffolk University",
+    "major": "Data Science",
+    "person_id": 32
+  },
+  {
+    "entrepreneur_id": 80,
+    "university": "Boston University",
+    "major": "CS",
+    "person_id": 95
+  },
+  {
+    "entrepreneur_id": 81,
+    "university": "Suffolk University",
+    "major": "Business",
+    "person_id": 112
+  },
+  {
+    "entrepreneur_id": 82,
+    "university": "Northeastern University",
+    "major": "Business",
+    "person_id": 103
+  },
+  {
+    "entrepreneur_id": 83,
+    "university": "Tufts University",
+    "major": "CS",
+    "person_id": 113
+  },
+  {
+    "entrepreneur_id": 84,
+    "university": "Northeastern University",
+    "major": "Design",
+    "person_id": 99
+  },
+  {
+    "entrepreneur_id": 85,
+    "university": "Emerson College",
+    "major": "Biology",
+    "person_id": 204
+  },
+  {
+    "entrepreneur_id": 86,
+    "university": "Northeastern University",
+    "major": "CS",
+    "person_id": 206
+  },
+  {
+    "entrepreneur_id": 87,
+    "university": "Suffolk University",
+    "major": "Biology",
+    "person_id": 128
+  },
+  {
+    "entrepreneur_id": 88,
+    "university": "Suffolk University",
+    "major": "CS",
+    "person_id": 134
+  },
+  {
+    "entrepreneur_id": 89,
+    "university": "Suffolk University",
+    "major": "Biology",
+    "person_id": 141
+  },
+  {
+    "entrepreneur_id": 90,
+    "university": "BC",
+    "major": "CS",
+    "person_id": 69
+  },
+  {
+    "entrepreneur_id": 91,
+    "university": "Suffolk University",
+    "major": "Economics",
+    "person_id": 203
+  },
+  {
+    "entrepreneur_id": 92,
+    "university": "MIT",
+    "major": "CS",
+    "person_id": 109
+  },
+  {
+    "entrepreneur_id": 93,
+    "university": "Emerson College",
+    "major": "Biology",
+    "person_id": 21
+  },
+  {
+    "entrepreneur_id": 94,
+    "university": "MIT",
+    "major": "Design",
+    "person_id": 56
+  },
+  {
+    "entrepreneur_id": 95,
+    "university": "MIT",
+    "major": "Data Science",
+    "person_id": 78
+  },
+  {
+    "entrepreneur_id": 96,
+    "university": "Harvard",
+    "major": "Data Science",
+    "person_id": 106
+  },
+  {
+    "entrepreneur_id": 97,
+    "university": "Tufts University",
+    "major": "Design",
+    "person_id": 24
+  },
+  {
+    "entrepreneur_id": 98,
+    "university": "Northeastern University",
+    "major": "Economics",
+    "person_id": 143
+  },
+  {
+    "entrepreneur_id": 99,
+    "university": "Suffolk University",
+    "major": "Business",
+    "person_id": 38
+  },
+  {
+    "entrepreneur_id": 100,
+    "university": "BC",
+    "major": "Data Science",
+    "person_id": 42
+  },
+  {
+    "entrepreneur_id": 101,
+    "university": "MIT",
+    "major": "Data Science",
+    "person_id": 14
+  },
+  {
+    "entrepreneur_id": 102,
+    "university": "Northeastern University",
+    "major": "Data Science",
+    "person_id": 157
+  },
+  {
+    "entrepreneur_id": 103,
+    "university": "Suffolk University",
+    "major": "Business",
+    "person_id": 192
+  },
+  {
+    "entrepreneur_id": 104,
+    "university": "Suffolk University",
+    "major": "Economics",
+    "person_id": 144
+  },
+  {
+    "entrepreneur_id": 105,
+    "university": "BC",
+    "major": "Economics",
+    "person_id": 151
+  },
+  {
+    "entrepreneur_id": 106,
+    "university": "Suffolk University",
+    "major": "CS",
+    "person_id": 40
+  },
+  {
+    "entrepreneur_id": 107,
+    "university": "Harvard",
+    "major": "Data Science",
+    "person_id": 58
+  },
+  {
+    "entrepreneur_id": 108,
+    "university": "Northeastern University",
+    "major": "CS",
+    "person_id": 126
+  },
+  {
+    "entrepreneur_id": 109,
+    "university": "BC",
+    "major": "Business",
+    "person_id": 146
+  },
+  {
+    "entrepreneur_id": 110,
+    "university": "Tufts University",
+    "major": "Design",
+    "person_id": 55
+  }
+]

@@ -1,0 +1,1712 @@
+[
+  {
+    "funding_id": 1,
+    "investor_id": 41,
+    "invested_amount": 192719
+  },
+  {
+    "funding_id": 2,
+    "investor_id": 53,
+    "invested_amount": 6947
+  },
+  {
+    "funding_id": 2,
+    "investor_id": 51,
+    "invested_amount": 17229
+  },
+  {
+    "funding_id": 3,
+    "investor_id": 5,
+    "invested_amount": 6818
+  },
+  {
+    "funding_id": 3,
+    "investor_id": 53,
+    "invested_amount": 15821
+  },
+  {
+    "funding_id": 3,
+    "investor_id": 7,
+    "invested_amount": 16208
+  },
+  {
+    "funding_id": 4,
+    "investor_id": 52,
+    "invested_amount": 80636
+  },
+  {
+    "funding_id": 5,
+    "investor_id": 52,
+    "invested_amount": 719160
+  },
+  {
+    "funding_id": 5,
+    "investor_id": 54,
+    "invested_amount": 541853
+  },
+  {
+    "funding_id": 6,
+    "investor_id": 8,
+    "invested_amount": 71709
+  },
+  {
+    "funding_id": 6,
+    "investor_id": 44,
+    "invested_amount": 33627
+  },
+  {
+    "funding_id": 7,
+    "investor_id": 49,
+    "invested_amount": 12956
+  },
+  {
+    "funding_id": 8,
+    "investor_id": 22,
+    "invested_amount": 49007
+  },
+  {
+    "funding_id": 9,
+    "investor_id": 10,
+    "invested_amount": 390926
+  },
+  {
+    "funding_id": 9,
+    "investor_id": 49,
+    "invested_amount": 556159
+  },
+  {
+    "funding_id": 10,
+    "investor_id": 11,
+    "invested_amount": 2362333
+  },
+  {
+    "funding_id": 10,
+    "investor_id": 29,
+    "invested_amount": 584113
+  },
+  {
+    "funding_id": 10,
+    "investor_id": 16,
+    "invested_amount": 703204
+  },
+  {
+    "funding_id": 11,
+    "investor_id": 40,
+    "invested_amount": 152225
+  },
+  {
+    "funding_id": 11,
+    "investor_id": 25,
+    "invested_amount": 422334
+  },
+  {
+    "funding_id": 11,
+    "investor_id": 50,
+    "invested_amount": 146906
+  },
+  {
+    "funding_id": 11,
+    "investor_id": 11,
+    "invested_amount": 246084
+  },
+  {
+    "funding_id": 12,
+    "investor_id": 46,
+    "invested_amount": 1878176
+  },
+  {
+    "funding_id": 13,
+    "investor_id": 27,
+    "invested_amount": 168719
+  },
+  {
+    "funding_id": 13,
+    "investor_id": 45,
+    "invested_amount": 163159
+  },
+  {
+    "funding_id": 14,
+    "investor_id": 9,
+    "invested_amount": 82826
+  },
+  {
+    "funding_id": 14,
+    "investor_id": 14,
+    "invested_amount": 111359
+  },
+  {
+    "funding_id": 14,
+    "investor_id": 10,
+    "invested_amount": 77786
+  },
+  {
+    "funding_id": 14,
+    "investor_id": 41,
+    "invested_amount": 67499
+  },
+  {
+    "funding_id": 15,
+    "investor_id": 3,
+    "invested_amount": 933629
+  },
+  {
+    "funding_id": 15,
+    "investor_id": 39,
+    "invested_amount": 1494402
+  },
+  {
+    "funding_id": 15,
+    "investor_id": 12,
+    "invested_amount": 1092126
+  },
+  {
+    "funding_id": 15,
+    "investor_id": 46,
+    "invested_amount": 1285593
+  },
+  {
+    "funding_id": 16,
+    "investor_id": 27,
+    "invested_amount": 7621
+  },
+  {
+    "funding_id": 16,
+    "investor_id": 1,
+    "invested_amount": 4169
+  },
+  {
+    "funding_id": 17,
+    "investor_id": 7,
+    "invested_amount": 347559
+  },
+  {
+    "funding_id": 17,
+    "investor_id": 40,
+    "invested_amount": 386306
+  },
+  {
+    "funding_id": 17,
+    "investor_id": 24,
+    "invested_amount": 236616
+  },
+  {
+    "funding_id": 18,
+    "investor_id": 50,
+    "invested_amount": 33469
+  },
+  {
+    "funding_id": 18,
+    "investor_id": 41,
+    "invested_amount": 19375
+  },
+  {
+    "funding_id": 19,
+    "investor_id": 8,
+    "invested_amount": 306976
+  },
+  {
+    "funding_id": 20,
+    "investor_id": 55,
+    "invested_amount": 233315
+  },
+  {
+    "funding_id": 20,
+    "investor_id": 59,
+    "invested_amount": 503568
+  },
+  {
+    "funding_id": 20,
+    "investor_id": 31,
+    "invested_amount": 160413
+  },
+  {
+    "funding_id": 20,
+    "investor_id": 32,
+    "invested_amount": 489732
+  },
+  {
+    "funding_id": 21,
+    "investor_id": 14,
+    "invested_amount": 1049256
+  },
+  {
+    "funding_id": 21,
+    "investor_id": 28,
+    "invested_amount": 1814018
+  },
+  {
+    "funding_id": 22,
+    "investor_id": 3,
+    "invested_amount": 1330019
+  },
+  {
+    "funding_id": 22,
+    "investor_id": 7,
+    "invested_amount": 1577708
+  },
+  {
+    "funding_id": 23,
+    "investor_id": 11,
+    "invested_amount": 1063249
+  },
+  {
+    "funding_id": 24,
+    "investor_id": 33,
+    "invested_amount": 214776
+  },
+  {
+    "funding_id": 24,
+    "investor_id": 8,
+    "invested_amount": 324849
+  },
+  {
+    "funding_id": 25,
+    "investor_id": 38,
+    "invested_amount": 406958
+  },
+  {
+    "funding_id": 25,
+    "investor_id": 21,
+    "invested_amount": 606476
+  },
+  {
+    "funding_id": 26,
+    "investor_id": 15,
+    "invested_amount": 896754
+  },
+  {
+    "funding_id": 26,
+    "investor_id": 50,
+    "invested_amount": 1189709
+  },
+  {
+    "funding_id": 27,
+    "investor_id": 48,
+    "invested_amount": 183731
+  },
+  {
+    "funding_id": 28,
+    "investor_id": 25,
+    "invested_amount": 812691
+  },
+  {
+    "funding_id": 29,
+    "investor_id": 31,
+    "invested_amount": 15089
+  },
+  {
+    "funding_id": 30,
+    "investor_id": 57,
+    "invested_amount": 1416115
+  },
+  {
+    "funding_id": 31,
+    "investor_id": 60,
+    "invested_amount": 14548
+  },
+  {
+    "funding_id": 32,
+    "investor_id": 25,
+    "invested_amount": 50299
+  },
+  {
+    "funding_id": 33,
+    "investor_id": 47,
+    "invested_amount": 981756
+  },
+  {
+    "funding_id": 33,
+    "investor_id": 13,
+    "invested_amount": 1364136
+  },
+  {
+    "funding_id": 34,
+    "investor_id": 22,
+    "invested_amount": 3438
+  },
+  {
+    "funding_id": 35,
+    "investor_id": 37,
+    "invested_amount": 29073
+  },
+  {
+    "funding_id": 35,
+    "investor_id": 4,
+    "invested_amount": 57608
+  },
+  {
+    "funding_id": 35,
+    "investor_id": 18,
+    "invested_amount": 53799
+  },
+  {
+    "funding_id": 35,
+    "investor_id": 9,
+    "invested_amount": 81343
+  },
+  {
+    "funding_id": 36,
+    "investor_id": 57,
+    "invested_amount": 48807
+  },
+  {
+    "funding_id": 37,
+    "investor_id": 51,
+    "invested_amount": 508709
+  },
+  {
+    "funding_id": 38,
+    "investor_id": 58,
+    "invested_amount": 10559
+  },
+  {
+    "funding_id": 38,
+    "investor_id": 11,
+    "invested_amount": 9563
+  },
+  {
+    "funding_id": 38,
+    "investor_id": 37,
+    "invested_amount": 2911
+  },
+  {
+    "funding_id": 39,
+    "investor_id": 32,
+    "invested_amount": 17352
+  },
+  {
+    "funding_id": 39,
+    "investor_id": 56,
+    "invested_amount": 22411
+  },
+  {
+    "funding_id": 39,
+    "investor_id": 14,
+    "invested_amount": 10910
+  },
+  {
+    "funding_id": 40,
+    "investor_id": 28,
+    "invested_amount": 9009
+  },
+  {
+    "funding_id": 40,
+    "investor_id": 48,
+    "invested_amount": 12383
+  },
+  {
+    "funding_id": 40,
+    "investor_id": 56,
+    "invested_amount": 8549
+  },
+  {
+    "funding_id": 40,
+    "investor_id": 16,
+    "invested_amount": 21310
+  },
+  {
+    "funding_id": 41,
+    "investor_id": 59,
+    "invested_amount": 516224
+  },
+  {
+    "funding_id": 42,
+    "investor_id": 27,
+    "invested_amount": 55381
+  },
+  {
+    "funding_id": 43,
+    "investor_id": 31,
+    "invested_amount": 36398
+  },
+  {
+    "funding_id": 44,
+    "investor_id": 3,
+    "invested_amount": 25884
+  },
+  {
+    "funding_id": 44,
+    "investor_id": 28,
+    "invested_amount": 42571
+  },
+  {
+    "funding_id": 44,
+    "investor_id": 34,
+    "invested_amount": 38029
+  },
+  {
+    "funding_id": 45,
+    "investor_id": 29,
+    "invested_amount": 390962
+  },
+  {
+    "funding_id": 46,
+    "investor_id": 36,
+    "invested_amount": 35100
+  },
+  {
+    "funding_id": 47,
+    "investor_id": 47,
+    "invested_amount": 623941
+  },
+  {
+    "funding_id": 47,
+    "investor_id": 27,
+    "invested_amount": 501551
+  },
+  {
+    "funding_id": 47,
+    "investor_id": 14,
+    "invested_amount": 1280844
+  },
+  {
+    "funding_id": 47,
+    "investor_id": 9,
+    "invested_amount": 272720
+  },
+  {
+    "funding_id": 48,
+    "investor_id": 20,
+    "invested_amount": 713864
+  },
+  {
+    "funding_id": 48,
+    "investor_id": 11,
+    "invested_amount": 642578
+  },
+  {
+    "funding_id": 48,
+    "investor_id": 46,
+    "invested_amount": 176812
+  },
+  {
+    "funding_id": 48,
+    "investor_id": 30,
+    "invested_amount": 454148
+  },
+  {
+    "funding_id": 49,
+    "investor_id": 56,
+    "invested_amount": 31760
+  },
+  {
+    "funding_id": 50,
+    "investor_id": 51,
+    "invested_amount": 8163
+  },
+  {
+    "funding_id": 51,
+    "investor_id": 30,
+    "invested_amount": 1358961
+  },
+  {
+    "funding_id": 51,
+    "investor_id": 46,
+    "invested_amount": 392492
+  },
+  {
+    "funding_id": 51,
+    "investor_id": 41,
+    "invested_amount": 1399412
+  },
+  {
+    "funding_id": 51,
+    "investor_id": 1,
+    "invested_amount": 713400
+  },
+  {
+    "funding_id": 52,
+    "investor_id": 19,
+    "invested_amount": 1831932
+  },
+  {
+    "funding_id": 53,
+    "investor_id": 45,
+    "invested_amount": 968552
+  },
+  {
+    "funding_id": 53,
+    "investor_id": 40,
+    "invested_amount": 1276612
+  },
+  {
+    "funding_id": 54,
+    "investor_id": 6,
+    "invested_amount": 72479
+  },
+  {
+    "funding_id": 54,
+    "investor_id": 40,
+    "invested_amount": 22411
+  },
+  {
+    "funding_id": 54,
+    "investor_id": 57,
+    "invested_amount": 87887
+  },
+  {
+    "funding_id": 54,
+    "investor_id": 22,
+    "invested_amount": 67986
+  },
+  {
+    "funding_id": 55,
+    "investor_id": 8,
+    "invested_amount": 12350
+  },
+  {
+    "funding_id": 56,
+    "investor_id": 40,
+    "invested_amount": 225430
+  },
+  {
+    "funding_id": 56,
+    "investor_id": 3,
+    "invested_amount": 155738
+  },
+  {
+    "funding_id": 57,
+    "investor_id": 46,
+    "invested_amount": 86371
+  },
+  {
+    "funding_id": 57,
+    "investor_id": 5,
+    "invested_amount": 40939
+  },
+  {
+    "funding_id": 57,
+    "investor_id": 36,
+    "invested_amount": 110853
+  },
+  {
+    "funding_id": 58,
+    "investor_id": 35,
+    "invested_amount": 756796
+  },
+  {
+    "funding_id": 59,
+    "investor_id": 48,
+    "invested_amount": 2379178
+  },
+  {
+    "funding_id": 59,
+    "investor_id": 49,
+    "invested_amount": 3465373
+  },
+  {
+    "funding_id": 60,
+    "investor_id": 49,
+    "invested_amount": 182576
+  },
+  {
+    "funding_id": 61,
+    "investor_id": 21,
+    "invested_amount": 26146
+  },
+  {
+    "funding_id": 62,
+    "investor_id": 33,
+    "invested_amount": 691933
+  },
+  {
+    "funding_id": 62,
+    "investor_id": 44,
+    "invested_amount": 313058
+  },
+  {
+    "funding_id": 63,
+    "investor_id": 23,
+    "invested_amount": 15511
+  },
+  {
+    "funding_id": 63,
+    "investor_id": 29,
+    "invested_amount": 16363
+  },
+  {
+    "funding_id": 64,
+    "investor_id": 31,
+    "invested_amount": 301577
+  },
+  {
+    "funding_id": 65,
+    "investor_id": 53,
+    "invested_amount": 15336
+  },
+  {
+    "funding_id": 65,
+    "investor_id": 35,
+    "invested_amount": 13504
+  },
+  {
+    "funding_id": 65,
+    "investor_id": 58,
+    "invested_amount": 20171
+  },
+  {
+    "funding_id": 65,
+    "investor_id": 19,
+    "invested_amount": 20606
+  },
+  {
+    "funding_id": 66,
+    "investor_id": 13,
+    "invested_amount": 25538
+  },
+  {
+    "funding_id": 67,
+    "investor_id": 6,
+    "invested_amount": 170657
+  },
+  {
+    "funding_id": 67,
+    "investor_id": 26,
+    "invested_amount": 80036
+  },
+  {
+    "funding_id": 68,
+    "investor_id": 7,
+    "invested_amount": 555117
+  },
+  {
+    "funding_id": 69,
+    "investor_id": 45,
+    "invested_amount": 385145
+  },
+  {
+    "funding_id": 70,
+    "investor_id": 56,
+    "invested_amount": 43545
+  },
+  {
+    "funding_id": 71,
+    "investor_id": 2,
+    "invested_amount": 106031
+  },
+  {
+    "funding_id": 71,
+    "investor_id": 19,
+    "invested_amount": 51181
+  },
+  {
+    "funding_id": 71,
+    "investor_id": 27,
+    "invested_amount": 79942
+  },
+  {
+    "funding_id": 71,
+    "investor_id": 44,
+    "invested_amount": 92958
+  },
+  {
+    "funding_id": 72,
+    "investor_id": 2,
+    "invested_amount": 8930
+  },
+  {
+    "funding_id": 72,
+    "investor_id": 19,
+    "invested_amount": 34534
+  },
+  {
+    "funding_id": 72,
+    "investor_id": 13,
+    "invested_amount": 35616
+  },
+  {
+    "funding_id": 72,
+    "investor_id": 5,
+    "invested_amount": 25265
+  },
+  {
+    "funding_id": 73,
+    "investor_id": 27,
+    "invested_amount": 12821
+  },
+  {
+    "funding_id": 73,
+    "investor_id": 38,
+    "invested_amount": 19380
+  },
+  {
+    "funding_id": 74,
+    "investor_id": 32,
+    "invested_amount": 73837
+  },
+  {
+    "funding_id": 74,
+    "investor_id": 38,
+    "invested_amount": 62898
+  },
+  {
+    "funding_id": 75,
+    "investor_id": 29,
+    "invested_amount": 19536
+  },
+  {
+    "funding_id": 75,
+    "investor_id": 30,
+    "invested_amount": 27449
+  },
+  {
+    "funding_id": 75,
+    "investor_id": 20,
+    "invested_amount": 13302
+  },
+  {
+    "funding_id": 76,
+    "investor_id": 15,
+    "invested_amount": 47424
+  },
+  {
+    "funding_id": 76,
+    "investor_id": 31,
+    "invested_amount": 41037
+  },
+  {
+    "funding_id": 77,
+    "investor_id": 10,
+    "invested_amount": 22992
+  },
+  {
+    "funding_id": 78,
+    "investor_id": 11,
+    "invested_amount": 2889255
+  },
+  {
+    "funding_id": 78,
+    "investor_id": 40,
+    "invested_amount": 2366788
+  },
+  {
+    "funding_id": 79,
+    "investor_id": 12,
+    "invested_amount": 44760
+  },
+  {
+    "funding_id": 79,
+    "investor_id": 54,
+    "invested_amount": 53945
+  },
+  {
+    "funding_id": 80,
+    "investor_id": 11,
+    "invested_amount": 21486
+  },
+  {
+    "funding_id": 81,
+    "investor_id": 21,
+    "invested_amount": 29653
+  },
+  {
+    "funding_id": 82,
+    "investor_id": 17,
+    "invested_amount": 77276
+  },
+  {
+    "funding_id": 82,
+    "investor_id": 24,
+    "invested_amount": 144503
+  },
+  {
+    "funding_id": 83,
+    "investor_id": 43,
+    "invested_amount": 45677
+  },
+  {
+    "funding_id": 84,
+    "investor_id": 10,
+    "invested_amount": 6221
+  },
+  {
+    "funding_id": 84,
+    "investor_id": 24,
+    "invested_amount": 10916
+  },
+  {
+    "funding_id": 85,
+    "investor_id": 20,
+    "invested_amount": 348132
+  },
+  {
+    "funding_id": 85,
+    "investor_id": 8,
+    "invested_amount": 1495563
+  },
+  {
+    "funding_id": 85,
+    "investor_id": 59,
+    "invested_amount": 1289728
+  },
+  {
+    "funding_id": 86,
+    "investor_id": 60,
+    "invested_amount": 15506
+  },
+  {
+    "funding_id": 86,
+    "investor_id": 21,
+    "invested_amount": 46596
+  },
+  {
+    "funding_id": 87,
+    "investor_id": 33,
+    "invested_amount": 1354960
+  },
+  {
+    "funding_id": 87,
+    "investor_id": 22,
+    "invested_amount": 1026604
+  },
+  {
+    "funding_id": 87,
+    "investor_id": 42,
+    "invested_amount": 765548
+  },
+  {
+    "funding_id": 88,
+    "investor_id": 43,
+    "invested_amount": 115605
+  },
+  {
+    "funding_id": 88,
+    "investor_id": 10,
+    "invested_amount": 164054
+  },
+  {
+    "funding_id": 88,
+    "investor_id": 52,
+    "invested_amount": 98145
+  },
+  {
+    "funding_id": 89,
+    "investor_id": 8,
+    "invested_amount": 770578
+  },
+  {
+    "funding_id": 89,
+    "investor_id": 47,
+    "invested_amount": 2465185
+  },
+  {
+    "funding_id": 89,
+    "investor_id": 31,
+    "invested_amount": 974579
+  },
+  {
+    "funding_id": 89,
+    "investor_id": 58,
+    "invested_amount": 729974
+  },
+  {
+    "funding_id": 90,
+    "investor_id": 54,
+    "invested_amount": 1479701
+  },
+  {
+    "funding_id": 90,
+    "investor_id": 15,
+    "invested_amount": 1404114
+  },
+  {
+    "funding_id": 90,
+    "investor_id": 29,
+    "invested_amount": 2090584
+  },
+  {
+    "funding_id": 91,
+    "investor_id": 38,
+    "invested_amount": 2177188
+  },
+  {
+    "funding_id": 92,
+    "investor_id": 13,
+    "invested_amount": 6165
+  },
+  {
+    "funding_id": 92,
+    "investor_id": 2,
+    "invested_amount": 20318
+  },
+  {
+    "funding_id": 93,
+    "investor_id": 43,
+    "invested_amount": 29670
+  },
+  {
+    "funding_id": 93,
+    "investor_id": 6,
+    "invested_amount": 37902
+  },
+  {
+    "funding_id": 93,
+    "investor_id": 33,
+    "invested_amount": 57083
+  },
+  {
+    "funding_id": 93,
+    "investor_id": 26,
+    "invested_amount": 79669
+  },
+  {
+    "funding_id": 94,
+    "investor_id": 24,
+    "invested_amount": 8156
+  },
+  {
+    "funding_id": 94,
+    "investor_id": 26,
+    "invested_amount": 4578
+  },
+  {
+    "funding_id": 94,
+    "investor_id": 10,
+    "invested_amount": 4602
+  },
+  {
+    "funding_id": 94,
+    "investor_id": 46,
+    "invested_amount": 3950
+  },
+  {
+    "funding_id": 95,
+    "investor_id": 20,
+    "invested_amount": 7784
+  },
+  {
+    "funding_id": 95,
+    "investor_id": 29,
+    "invested_amount": 2337
+  },
+  {
+    "funding_id": 96,
+    "investor_id": 57,
+    "invested_amount": 39986
+  },
+  {
+    "funding_id": 96,
+    "investor_id": 29,
+    "invested_amount": 20440
+  },
+  {
+    "funding_id": 96,
+    "investor_id": 48,
+    "invested_amount": 40062
+  },
+  {
+    "funding_id": 96,
+    "investor_id": 27,
+    "invested_amount": 46312
+  },
+  {
+    "funding_id": 97,
+    "investor_id": 47,
+    "invested_amount": 362168
+  },
+  {
+    "funding_id": 97,
+    "investor_id": 58,
+    "invested_amount": 591902
+  },
+  {
+    "funding_id": 98,
+    "investor_id": 6,
+    "invested_amount": 11047
+  },
+  {
+    "funding_id": 98,
+    "investor_id": 10,
+    "invested_amount": 24729
+  },
+  {
+    "funding_id": 98,
+    "investor_id": 14,
+    "invested_amount": 15481
+  },
+  {
+    "funding_id": 99,
+    "investor_id": 5,
+    "invested_amount": 334149
+  },
+  {
+    "funding_id": 99,
+    "investor_id": 60,
+    "invested_amount": 277823
+  },
+  {
+    "funding_id": 100,
+    "investor_id": 1,
+    "invested_amount": 11756
+  },
+  {
+    "funding_id": 101,
+    "investor_id": 27,
+    "invested_amount": 6373
+  },
+  {
+    "funding_id": 101,
+    "investor_id": 12,
+    "invested_amount": 7595
+  },
+  {
+    "funding_id": 102,
+    "investor_id": 13,
+    "invested_amount": 3561
+  },
+  {
+    "funding_id": 103,
+    "investor_id": 19,
+    "invested_amount": 215303
+  },
+  {
+    "funding_id": 103,
+    "investor_id": 36,
+    "invested_amount": 311885
+  },
+  {
+    "funding_id": 104,
+    "investor_id": 54,
+    "invested_amount": 3862
+  },
+  {
+    "funding_id": 104,
+    "investor_id": 38,
+    "invested_amount": 5643
+  },
+  {
+    "funding_id": 105,
+    "investor_id": 15,
+    "invested_amount": 184822
+  },
+  {
+    "funding_id": 105,
+    "investor_id": 2,
+    "invested_amount": 71716
+  },
+  {
+    "funding_id": 106,
+    "investor_id": 41,
+    "invested_amount": 6720
+  },
+  {
+    "funding_id": 106,
+    "investor_id": 54,
+    "invested_amount": 2836
+  },
+  {
+    "funding_id": 107,
+    "investor_id": 58,
+    "invested_amount": 58494
+  },
+  {
+    "funding_id": 107,
+    "investor_id": 19,
+    "invested_amount": 73944
+  },
+  {
+    "funding_id": 107,
+    "investor_id": 27,
+    "invested_amount": 39008
+  },
+  {
+    "funding_id": 107,
+    "investor_id": 12,
+    "invested_amount": 29121
+  },
+  {
+    "funding_id": 108,
+    "investor_id": 32,
+    "invested_amount": 2249614
+  },
+  {
+    "funding_id": 108,
+    "investor_id": 5,
+    "invested_amount": 1621200
+  },
+  {
+    "funding_id": 109,
+    "investor_id": 37,
+    "invested_amount": 90953
+  },
+  {
+    "funding_id": 109,
+    "investor_id": 28,
+    "invested_amount": 71406
+  },
+  {
+    "funding_id": 110,
+    "investor_id": 45,
+    "invested_amount": 49765
+  },
+  {
+    "funding_id": 110,
+    "investor_id": 53,
+    "invested_amount": 102675
+  },
+  {
+    "funding_id": 111,
+    "investor_id": 2,
+    "invested_amount": 55302
+  },
+  {
+    "funding_id": 111,
+    "investor_id": 55,
+    "invested_amount": 41326
+  },
+  {
+    "funding_id": 111,
+    "investor_id": 17,
+    "invested_amount": 76310
+  },
+  {
+    "funding_id": 112,
+    "investor_id": 9,
+    "invested_amount": 164475
+  },
+  {
+    "funding_id": 112,
+    "investor_id": 23,
+    "invested_amount": 210684
+  },
+  {
+    "funding_id": 112,
+    "investor_id": 11,
+    "invested_amount": 365693
+  },
+  {
+    "funding_id": 112,
+    "investor_id": 4,
+    "invested_amount": 190692
+  },
+  {
+    "funding_id": 113,
+    "investor_id": 19,
+    "invested_amount": 442659
+  },
+  {
+    "funding_id": 113,
+    "investor_id": 34,
+    "invested_amount": 162746
+  },
+  {
+    "funding_id": 114,
+    "investor_id": 50,
+    "invested_amount": 127053
+  },
+  {
+    "funding_id": 115,
+    "investor_id": 39,
+    "invested_amount": 297491
+  },
+  {
+    "funding_id": 116,
+    "investor_id": 21,
+    "invested_amount": 18881
+  },
+  {
+    "funding_id": 116,
+    "investor_id": 56,
+    "invested_amount": 18103
+  },
+  {
+    "funding_id": 116,
+    "investor_id": 53,
+    "invested_amount": 8991
+  },
+  {
+    "funding_id": 117,
+    "investor_id": 45,
+    "invested_amount": 16839
+  },
+  {
+    "funding_id": 117,
+    "investor_id": 24,
+    "invested_amount": 21774
+  },
+  {
+    "funding_id": 117,
+    "investor_id": 7,
+    "invested_amount": 5333
+  },
+  {
+    "funding_id": 117,
+    "investor_id": 35,
+    "invested_amount": 15584
+  },
+  {
+    "funding_id": 118,
+    "investor_id": 50,
+    "invested_amount": 11070
+  },
+  {
+    "funding_id": 118,
+    "investor_id": 32,
+    "invested_amount": 19581
+  },
+  {
+    "funding_id": 119,
+    "investor_id": 7,
+    "invested_amount": 3316
+  },
+  {
+    "funding_id": 120,
+    "investor_id": 15,
+    "invested_amount": 320554
+  },
+  {
+    "funding_id": 120,
+    "investor_id": 54,
+    "invested_amount": 248030
+  },
+  {
+    "funding_id": 120,
+    "investor_id": 13,
+    "invested_amount": 288209
+  },
+  {
+    "funding_id": 121,
+    "investor_id": 55,
+    "invested_amount": 26033
+  },
+  {
+    "funding_id": 121,
+    "investor_id": 35,
+    "invested_amount": 32701
+  },
+  {
+    "funding_id": 121,
+    "investor_id": 46,
+    "invested_amount": 11827
+  },
+  {
+    "funding_id": 122,
+    "investor_id": 59,
+    "invested_amount": 791729
+  },
+  {
+    "funding_id": 122,
+    "investor_id": 5,
+    "invested_amount": 823407
+  },
+  {
+    "funding_id": 123,
+    "investor_id": 31,
+    "invested_amount": 3946
+  },
+  {
+    "funding_id": 124,
+    "investor_id": 24,
+    "invested_amount": 23544
+  },
+  {
+    "funding_id": 124,
+    "investor_id": 9,
+    "invested_amount": 17511
+  },
+  {
+    "funding_id": 124,
+    "investor_id": 53,
+    "invested_amount": 20939
+  },
+  {
+    "funding_id": 124,
+    "investor_id": 29,
+    "invested_amount": 12230
+  },
+  {
+    "funding_id": 125,
+    "investor_id": 20,
+    "invested_amount": 6480
+  },
+  {
+    "funding_id": 125,
+    "investor_id": 2,
+    "invested_amount": 6658
+  },
+  {
+    "funding_id": 125,
+    "investor_id": 48,
+    "invested_amount": 16601
+  },
+  {
+    "funding_id": 125,
+    "investor_id": 53,
+    "invested_amount": 16492
+  },
+  {
+    "funding_id": 126,
+    "investor_id": 9,
+    "invested_amount": 103298
+  },
+  {
+    "funding_id": 126,
+    "investor_id": 14,
+    "invested_amount": 89276
+  },
+  {
+    "funding_id": 127,
+    "investor_id": 49,
+    "invested_amount": 161033
+  },
+  {
+    "funding_id": 127,
+    "investor_id": 51,
+    "invested_amount": 439869
+  },
+  {
+    "funding_id": 127,
+    "investor_id": 8,
+    "invested_amount": 408114
+  },
+  {
+    "funding_id": 127,
+    "investor_id": 5,
+    "invested_amount": 267395
+  },
+  {
+    "funding_id": 128,
+    "investor_id": 51,
+    "invested_amount": 84670
+  },
+  {
+    "funding_id": 129,
+    "investor_id": 4,
+    "invested_amount": 98142
+  },
+  {
+    "funding_id": 129,
+    "investor_id": 31,
+    "invested_amount": 24844
+  },
+  {
+    "funding_id": 129,
+    "investor_id": 8,
+    "invested_amount": 46731
+  },
+  {
+    "funding_id": 130,
+    "investor_id": 49,
+    "invested_amount": 6319
+  },
+  {
+    "funding_id": 131,
+    "investor_id": 59,
+    "invested_amount": 1839173
+  },
+  {
+    "funding_id": 132,
+    "investor_id": 58,
+    "invested_amount": 1124392
+  },
+  {
+    "funding_id": 132,
+    "investor_id": 13,
+    "invested_amount": 341078
+  },
+  {
+    "funding_id": 132,
+    "investor_id": 12,
+    "invested_amount": 483120
+  },
+  {
+    "funding_id": 133,
+    "investor_id": 18,
+    "invested_amount": 602194
+  },
+  {
+    "funding_id": 133,
+    "investor_id": 38,
+    "invested_amount": 561688
+  },
+  {
+    "funding_id": 133,
+    "investor_id": 23,
+    "invested_amount": 470228
+  },
+  {
+    "funding_id": 133,
+    "investor_id": 11,
+    "invested_amount": 411353
+  },
+  {
+    "funding_id": 134,
+    "investor_id": 7,
+    "invested_amount": 140917
+  },
+  {
+    "funding_id": 135,
+    "investor_id": 34,
+    "invested_amount": 15691
+  },
+  {
+    "funding_id": 136,
+    "investor_id": 19,
+    "invested_amount": 34763
+  },
+  {
+    "funding_id": 137,
+    "investor_id": 1,
+    "invested_amount": 97414
+  },
+  {
+    "funding_id": 137,
+    "investor_id": 47,
+    "invested_amount": 97102
+  },
+  {
+    "funding_id": 137,
+    "investor_id": 7,
+    "invested_amount": 91363
+  },
+  {
+    "funding_id": 138,
+    "investor_id": 24,
+    "invested_amount": 316687
+  },
+  {
+    "funding_id": 138,
+    "investor_id": 45,
+    "invested_amount": 260202
+  },
+  {
+    "funding_id": 139,
+    "investor_id": 12,
+    "invested_amount": 151034
+  },
+  {
+    "funding_id": 140,
+    "investor_id": 28,
+    "invested_amount": 49399
+  },
+  {
+    "funding_id": 140,
+    "investor_id": 14,
+    "invested_amount": 42504
+  },
+  {
+    "funding_id": 141,
+    "investor_id": 8,
+    "invested_amount": 13494
+  },
+  {
+    "funding_id": 141,
+    "investor_id": 30,
+    "invested_amount": 14453
+  },
+  {
+    "funding_id": 142,
+    "investor_id": 46,
+    "invested_amount": 5546
+  },
+  {
+    "funding_id": 142,
+    "investor_id": 19,
+    "invested_amount": 1997
+  },
+  {
+    "funding_id": 143,
+    "investor_id": 32,
+    "invested_amount": 240551
+  },
+  {
+    "funding_id": 143,
+    "investor_id": 8,
+    "invested_amount": 267897
+  },
+  {
+    "funding_id": 144,
+    "investor_id": 20,
+    "invested_amount": 8895
+  },
+  {
+    "funding_id": 144,
+    "investor_id": 44,
+    "invested_amount": 12285
+  },
+  {
+    "funding_id": 144,
+    "investor_id": 54,
+    "invested_amount": 23083
+  },
+  {
+    "funding_id": 144,
+    "investor_id": 29,
+    "invested_amount": 12672
+  },
+  {
+    "funding_id": 145,
+    "investor_id": 58,
+    "invested_amount": 1387396
+  },
+  {
+    "funding_id": 146,
+    "investor_id": 44,
+    "invested_amount": 122166
+  },
+  {
+    "funding_id": 146,
+    "investor_id": 24,
+    "invested_amount": 355353
+  },
+  {
+    "funding_id": 147,
+    "investor_id": 44,
+    "invested_amount": 88002
+  },
+  {
+    "funding_id": 147,
+    "investor_id": 7,
+    "invested_amount": 105197
+  },
+  {
+    "funding_id": 148,
+    "investor_id": 6,
+    "invested_amount": 4542
+  },
+  {
+    "funding_id": 148,
+    "investor_id": 8,
+    "invested_amount": 5869
+  },
+  {
+    "funding_id": 148,
+    "investor_id": 10,
+    "invested_amount": 2455
+  },
+  {
+    "funding_id": 148,
+    "investor_id": 26,
+    "invested_amount": 8206
+  },
+  {
+    "funding_id": 149,
+    "investor_id": 5,
+    "invested_amount": 14417
+  },
+  {
+    "funding_id": 150,
+    "investor_id": 22,
+    "invested_amount": 171885
+  },
+  {
+    "funding_id": 151,
+    "investor_id": 8,
+    "invested_amount": 340760
+  },
+  {
+    "funding_id": 151,
+    "investor_id": 15,
+    "invested_amount": 305401
+  },
+  {
+    "funding_id": 152,
+    "investor_id": 49,
+    "invested_amount": 293465
+  },
+  {
+    "funding_id": 152,
+    "investor_id": 46,
+    "invested_amount": 243689
+  },
+  {
+    "funding_id": 153,
+    "investor_id": 26,
+    "invested_amount": 1119045
+  },
+  {
+    "funding_id": 153,
+    "investor_id": 23,
+    "invested_amount": 858394
+  },
+  {
+    "funding_id": 153,
+    "investor_id": 31,
+    "invested_amount": 963442
+  },
+  {
+    "funding_id": 153,
+    "investor_id": 43,
+    "invested_amount": 693714
+  },
+  {
+    "funding_id": 154,
+    "investor_id": 7,
+    "invested_amount": 163170
+  },
+  {
+    "funding_id": 154,
+    "investor_id": 8,
+    "invested_amount": 243529
+  },
+  {
+    "funding_id": 155,
+    "investor_id": 9,
+    "invested_amount": 20958
+  },
+  {
+    "funding_id": 155,
+    "investor_id": 2,
+    "invested_amount": 22022
+  },
+  {
+    "funding_id": 155,
+    "investor_id": 7,
+    "invested_amount": 64229
+  },
+  {
+    "funding_id": 155,
+    "investor_id": 48,
+    "invested_amount": 84573
+  },
+  {
+    "funding_id": 156,
+    "investor_id": 39,
+    "invested_amount": 4280
+  },
+  {
+    "funding_id": 156,
+    "investor_id": 44,
+    "invested_amount": 4100
+  },
+  {
+    "funding_id": 157,
+    "investor_id": 7,
+    "invested_amount": 39824
+  },
+  {
+    "funding_id": 157,
+    "investor_id": 49,
+    "invested_amount": 33655
+  },
+  {
+    "funding_id": 157,
+    "investor_id": 5,
+    "invested_amount": 32441
+  },
+  {
+    "funding_id": 158,
+    "investor_id": 13,
+    "invested_amount": 7096
+  },
+  {
+    "funding_id": 158,
+    "investor_id": 19,
+    "invested_amount": 5759
+  },
+  {
+    "funding_id": 159,
+    "investor_id": 35,
+    "invested_amount": 19757
+  },
+  {
+    "funding_id": 159,
+    "investor_id": 22,
+    "invested_amount": 14741
+  },
+  {
+    "funding_id": 160,
+    "investor_id": 49,
+    "invested_amount": 612379
+  }
+]

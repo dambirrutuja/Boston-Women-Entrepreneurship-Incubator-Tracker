@@ -1,0 +1,962 @@
+[
+  {
+    "startup_id": 1,
+    "name": "BlueSolutions1",
+    "industry": "AI",
+    "stage": "Early Revenue",
+    "date_founded": "2024-02-09",
+    "description": "BlueSolutions1 is a AI startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 2,
+    "name": "BlueApps2",
+    "industry": "AI",
+    "stage": "Early Revenue",
+    "date_founded": "2019-11-10",
+    "description": "BlueApps2 is a AI startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 3,
+    "name": "FusionDesigns3",
+    "industry": "Health",
+    "stage": "Prototype",
+    "date_founded": "2022-10-05",
+    "description": "FusionDesigns3 is a Health startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 4,
+    "name": "BrightApps4",
+    "industry": "E-commerce",
+    "stage": "Early Revenue",
+    "date_founded": "2024-10-02",
+    "description": "BrightApps4 is a E-commerce startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 5,
+    "name": "EcoTech5",
+    "industry": "Tech",
+    "stage": "Early Revenue",
+    "date_founded": "2023-04-25",
+    "description": "EcoTech5 is a Tech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 6,
+    "name": "FusionWorks6",
+    "industry": "E-commerce",
+    "stage": "Idea",
+    "date_founded": "2021-11-18",
+    "description": "FusionWorks6 is a E-commerce startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 7,
+    "name": "GreenApps7",
+    "industry": "Sustainability",
+    "stage": "Growth",
+    "date_founded": "2019-11-13",
+    "description": "GreenApps7 is a Sustainability startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 8,
+    "name": "GreenWorks8",
+    "industry": "Health",
+    "stage": "Idea",
+    "date_founded": "2019-08-14",
+    "description": "GreenWorks8 is a Health startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 9,
+    "name": "BetaWorks9",
+    "industry": "Fashion",
+    "stage": "Early Revenue",
+    "date_founded": "2022-03-11",
+    "description": "BetaWorks9 is a Fashion startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 10,
+    "name": "NextApps10",
+    "industry": "Food",
+    "stage": "Growth",
+    "date_founded": "2019-06-17",
+    "description": "NextApps10 is a Food startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 11,
+    "name": "OmniTech11",
+    "industry": "Food",
+    "stage": "Prototype",
+    "date_founded": "2021-02-09",
+    "description": "OmniTech11 is a Food startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 12,
+    "name": "BetaLabs12",
+    "industry": "Education",
+    "stage": "Idea",
+    "date_founded": "2018-05-13",
+    "description": "BetaLabs12 is a Education startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 13,
+    "name": "FusionWorks13",
+    "industry": "Fashion",
+    "stage": "Prototype",
+    "date_founded": "2024-06-19",
+    "description": "FusionWorks13 is a Fashion startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 14,
+    "name": "NextLabs14",
+    "industry": "Education",
+    "stage": "Growth",
+    "date_founded": "2022-08-16",
+    "description": "NextLabs14 is a Education startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 15,
+    "name": "GreenWorks15",
+    "industry": "Tech",
+    "stage": "Idea",
+    "date_founded": "2021-09-15",
+    "description": "GreenWorks15 is a Tech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 16,
+    "name": "BlueLabs16",
+    "industry": "E-commerce",
+    "stage": "Early Revenue",
+    "date_founded": "2018-01-10",
+    "description": "BlueLabs16 is a E-commerce startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 17,
+    "name": "BetaDesigns17",
+    "industry": "Biotech",
+    "stage": "Early Revenue",
+    "date_founded": "2022-01-28",
+    "description": "BetaDesigns17 is a Biotech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 18,
+    "name": "NovaWorks18",
+    "industry": "Education",
+    "stage": "Early Revenue",
+    "date_founded": "2023-06-25",
+    "description": "NovaWorks18 is a Education startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 19,
+    "name": "AlphaSolutions19",
+    "industry": "Tech",
+    "stage": "Growth",
+    "date_founded": "2018-10-18",
+    "description": "AlphaSolutions19 is a Tech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 20,
+    "name": "BlueSolutions20",
+    "industry": "AI",
+    "stage": "Early Revenue",
+    "date_founded": "2018-07-17",
+    "description": "BlueSolutions20 is a AI startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 21,
+    "name": "BetaSystems21",
+    "industry": "AI",
+    "stage": "Early Revenue",
+    "date_founded": "2024-10-22",
+    "description": "BetaSystems21 is a AI startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 22,
+    "name": "FusionTech22",
+    "industry": "Education",
+    "stage": "Idea",
+    "date_founded": "2021-06-26",
+    "description": "FusionTech22 is a Education startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 23,
+    "name": "NextDesigns23",
+    "industry": "Food",
+    "stage": "Prototype",
+    "date_founded": "2019-10-17",
+    "description": "NextDesigns23 is a Food startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 24,
+    "name": "AlphaDesigns24",
+    "industry": "Tech",
+    "stage": "Idea",
+    "date_founded": "2018-03-23",
+    "description": "AlphaDesigns24 is a Tech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 25,
+    "name": "NextSystems25",
+    "industry": "Biotech",
+    "stage": "Growth",
+    "date_founded": "2019-10-17",
+    "description": "NextSystems25 is a Biotech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 26,
+    "name": "BrightSolutions26",
+    "industry": "E-commerce",
+    "stage": "Early Revenue",
+    "date_founded": "2019-07-20",
+    "description": "BrightSolutions26 is a E-commerce startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 27,
+    "name": "GreenDesigns27",
+    "industry": "Food",
+    "stage": "Growth",
+    "date_founded": "2023-10-10",
+    "description": "GreenDesigns27 is a Food startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 28,
+    "name": "BetaSystems28",
+    "industry": "Tech",
+    "stage": "Early Revenue",
+    "date_founded": "2020-11-04",
+    "description": "BetaSystems28 is a Tech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 29,
+    "name": "AlphaDesigns29",
+    "industry": "Sustainability",
+    "stage": "Idea",
+    "date_founded": "2022-08-09",
+    "description": "AlphaDesigns29 is a Sustainability startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 30,
+    "name": "SparkSystems30",
+    "industry": "E-commerce",
+    "stage": "Prototype",
+    "date_founded": "2023-01-19",
+    "description": "SparkSystems30 is a E-commerce startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 31,
+    "name": "BetaLabs31",
+    "industry": "AI",
+    "stage": "Growth",
+    "date_founded": "2019-11-08",
+    "description": "BetaLabs31 is a AI startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 32,
+    "name": "EcoDesigns32",
+    "industry": "Health",
+    "stage": "Prototype",
+    "date_founded": "2018-08-11",
+    "description": "EcoDesigns32 is a Health startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 33,
+    "name": "AlphaLabs33",
+    "industry": "FinTech",
+    "stage": "Prototype",
+    "date_founded": "2021-09-25",
+    "description": "AlphaLabs33 is a FinTech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 34,
+    "name": "FusionWorks34",
+    "industry": "Tech",
+    "stage": "Prototype",
+    "date_founded": "2022-04-18",
+    "description": "FusionWorks34 is a Tech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 35,
+    "name": "NextApps35",
+    "industry": "Biotech",
+    "stage": "Growth",
+    "date_founded": "2020-03-15",
+    "description": "NextApps35 is a Biotech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 36,
+    "name": "OmniSolutions36",
+    "industry": "AI",
+    "stage": "Early Revenue",
+    "date_founded": "2023-12-22",
+    "description": "OmniSolutions36 is a AI startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 37,
+    "name": "SparkSystems37",
+    "industry": "Sustainability",
+    "stage": "Growth",
+    "date_founded": "2019-04-09",
+    "description": "SparkSystems37 is a Sustainability startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 38,
+    "name": "OmniSolutions38",
+    "industry": "Fashion",
+    "stage": "Early Revenue",
+    "date_founded": "2024-05-23",
+    "description": "OmniSolutions38 is a Fashion startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 39,
+    "name": "BlueApps39",
+    "industry": "Biotech",
+    "stage": "Early Revenue",
+    "date_founded": "2021-06-18",
+    "description": "BlueApps39 is a Biotech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 40,
+    "name": "GreenSolutions40",
+    "industry": "Health",
+    "stage": "Growth",
+    "date_founded": "2021-06-25",
+    "description": "GreenSolutions40 is a Health startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 41,
+    "name": "BrightSolutions41",
+    "industry": "Tech",
+    "stage": "Early Revenue",
+    "date_founded": "2023-02-12",
+    "description": "BrightSolutions41 is a Tech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 42,
+    "name": "BetaApps42",
+    "industry": "Sustainability",
+    "stage": "Growth",
+    "date_founded": "2019-04-27",
+    "description": "BetaApps42 is a Sustainability startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 43,
+    "name": "OmniSolutions43",
+    "industry": "AI",
+    "stage": "Early Revenue",
+    "date_founded": "2019-02-20",
+    "description": "OmniSolutions43 is a AI startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 44,
+    "name": "FusionLabs44",
+    "industry": "Fashion",
+    "stage": "Idea",
+    "date_founded": "2023-09-08",
+    "description": "FusionLabs44 is a Fashion startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 45,
+    "name": "SparkLabs45",
+    "industry": "Tech",
+    "stage": "Idea",
+    "date_founded": "2021-06-23",
+    "description": "SparkLabs45 is a Tech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 46,
+    "name": "BetaTech46",
+    "industry": "Education",
+    "stage": "Idea",
+    "date_founded": "2022-03-14",
+    "description": "BetaTech46 is a Education startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 47,
+    "name": "SparkWorks47",
+    "industry": "Biotech",
+    "stage": "Prototype",
+    "date_founded": "2024-05-11",
+    "description": "SparkWorks47 is a Biotech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 48,
+    "name": "GreenApps48",
+    "industry": "Tech",
+    "stage": "Idea",
+    "date_founded": "2023-10-08",
+    "description": "GreenApps48 is a Tech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 49,
+    "name": "OmniApps49",
+    "industry": "Tech",
+    "stage": "Prototype",
+    "date_founded": "2021-03-02",
+    "description": "OmniApps49 is a Tech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 50,
+    "name": "AlphaSystems50",
+    "industry": "Biotech",
+    "stage": "Prototype",
+    "date_founded": "2023-05-02",
+    "description": "AlphaSystems50 is a Biotech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 51,
+    "name": "EcoSolutions51",
+    "industry": "E-commerce",
+    "stage": "Idea",
+    "date_founded": "2020-05-15",
+    "description": "EcoSolutions51 is a E-commerce startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 52,
+    "name": "SparkDesigns52",
+    "industry": "AI",
+    "stage": "Growth",
+    "date_founded": "2019-09-15",
+    "description": "SparkDesigns52 is a AI startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 53,
+    "name": "GreenLabs53",
+    "industry": "Health",
+    "stage": "Early Revenue",
+    "date_founded": "2019-12-15",
+    "description": "GreenLabs53 is a Health startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 54,
+    "name": "SparkSolutions54",
+    "industry": "Education",
+    "stage": "Idea",
+    "date_founded": "2023-06-26",
+    "description": "SparkSolutions54 is a Education startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 55,
+    "name": "GreenDesigns55",
+    "industry": "Fashion",
+    "stage": "Prototype",
+    "date_founded": "2022-11-13",
+    "description": "GreenDesigns55 is a Fashion startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 56,
+    "name": "AlphaDesigns56",
+    "industry": "Food",
+    "stage": "Idea",
+    "date_founded": "2021-11-04",
+    "description": "AlphaDesigns56 is a Food startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 57,
+    "name": "BrightLabs57",
+    "industry": "Biotech",
+    "stage": "Early Revenue",
+    "date_founded": "2019-01-09",
+    "description": "BrightLabs57 is a Biotech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 58,
+    "name": "AlphaLabs58",
+    "industry": "Biotech",
+    "stage": "Early Revenue",
+    "date_founded": "2020-05-19",
+    "description": "AlphaLabs58 is a Biotech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 59,
+    "name": "FusionTech59",
+    "industry": "Sustainability",
+    "stage": "Early Revenue",
+    "date_founded": "2023-04-02",
+    "description": "FusionTech59 is a Sustainability startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 60,
+    "name": "SparkTech60",
+    "industry": "Biotech",
+    "stage": "Early Revenue",
+    "date_founded": "2019-07-22",
+    "description": "SparkTech60 is a Biotech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 61,
+    "name": "OmniApps61",
+    "industry": "Sustainability",
+    "stage": "Idea",
+    "date_founded": "2023-05-12",
+    "description": "OmniApps61 is a Sustainability startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 62,
+    "name": "FusionLabs62",
+    "industry": "Fashion",
+    "stage": "Prototype",
+    "date_founded": "2021-03-15",
+    "description": "FusionLabs62 is a Fashion startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 63,
+    "name": "FusionSolutions63",
+    "industry": "FinTech",
+    "stage": "Growth",
+    "date_founded": "2024-09-26",
+    "description": "FusionSolutions63 is a FinTech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 64,
+    "name": "SparkSystems64",
+    "industry": "Fashion",
+    "stage": "Prototype",
+    "date_founded": "2023-10-28",
+    "description": "SparkSystems64 is a Fashion startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 65,
+    "name": "NovaDesigns65",
+    "industry": "Biotech",
+    "stage": "Early Revenue",
+    "date_founded": "2018-10-04",
+    "description": "NovaDesigns65 is a Biotech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 66,
+    "name": "EcoSystems66",
+    "industry": "AI",
+    "stage": "Prototype",
+    "date_founded": "2022-09-05",
+    "description": "EcoSystems66 is a AI startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 67,
+    "name": "BrightSolutions67",
+    "industry": "AI",
+    "stage": "Growth",
+    "date_founded": "2018-11-07",
+    "description": "BrightSolutions67 is a AI startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 68,
+    "name": "FusionWorks68",
+    "industry": "Health",
+    "stage": "Growth",
+    "date_founded": "2024-01-15",
+    "description": "FusionWorks68 is a Health startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 69,
+    "name": "BrightDesigns69",
+    "industry": "FinTech",
+    "stage": "Growth",
+    "date_founded": "2022-01-18",
+    "description": "BrightDesigns69 is a FinTech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 70,
+    "name": "BetaApps70",
+    "industry": "Sustainability",
+    "stage": "Idea",
+    "date_founded": "2021-05-27",
+    "description": "BetaApps70 is a Sustainability startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 71,
+    "name": "EcoApps71",
+    "industry": "Fashion",
+    "stage": "Idea",
+    "date_founded": "2018-07-12",
+    "description": "EcoApps71 is a Fashion startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 72,
+    "name": "NovaDesigns72",
+    "industry": "Tech",
+    "stage": "Idea",
+    "date_founded": "2021-01-10",
+    "description": "NovaDesigns72 is a Tech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 73,
+    "name": "AlphaLabs73",
+    "industry": "Education",
+    "stage": "Growth",
+    "date_founded": "2020-07-15",
+    "description": "AlphaLabs73 is a Education startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 74,
+    "name": "AlphaWorks74",
+    "industry": "Health",
+    "stage": "Prototype",
+    "date_founded": "2023-06-04",
+    "description": "AlphaWorks74 is a Health startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 75,
+    "name": "BrightDesigns75",
+    "industry": "FinTech",
+    "stage": "Prototype",
+    "date_founded": "2023-04-27",
+    "description": "BrightDesigns75 is a FinTech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 76,
+    "name": "EcoSystems76",
+    "industry": "Tech",
+    "stage": "Early Revenue",
+    "date_founded": "2021-11-24",
+    "description": "EcoSystems76 is a Tech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 77,
+    "name": "OmniWorks77",
+    "industry": "AI",
+    "stage": "Growth",
+    "date_founded": "2024-04-08",
+    "description": "OmniWorks77 is a AI startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 78,
+    "name": "BetaSolutions78",
+    "industry": "Education",
+    "stage": "Early Revenue",
+    "date_founded": "2019-12-25",
+    "description": "BetaSolutions78 is a Education startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 79,
+    "name": "NovaTech79",
+    "industry": "FinTech",
+    "stage": "Idea",
+    "date_founded": "2019-04-03",
+    "description": "NovaTech79 is a FinTech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 80,
+    "name": "NovaDesigns80",
+    "industry": "Tech",
+    "stage": "Growth",
+    "date_founded": "2022-11-23",
+    "description": "NovaDesigns80 is a Tech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 81,
+    "name": "EcoLabs81",
+    "industry": "Tech",
+    "stage": "Growth",
+    "date_founded": "2021-04-18",
+    "description": "EcoLabs81 is a Tech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 82,
+    "name": "BlueSystems82",
+    "industry": "Tech",
+    "stage": "Prototype",
+    "date_founded": "2022-05-08",
+    "description": "BlueSystems82 is a Tech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 83,
+    "name": "FusionSolutions83",
+    "industry": "E-commerce",
+    "stage": "Early Revenue",
+    "date_founded": "2019-05-05",
+    "description": "FusionSolutions83 is a E-commerce startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 84,
+    "name": "SparkDesigns84",
+    "industry": "Fashion",
+    "stage": "Growth",
+    "date_founded": "2020-05-02",
+    "description": "SparkDesigns84 is a Fashion startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 85,
+    "name": "OmniDesigns85",
+    "industry": "Education",
+    "stage": "Growth",
+    "date_founded": "2022-08-02",
+    "description": "OmniDesigns85 is a Education startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 86,
+    "name": "NextApps86",
+    "industry": "FinTech",
+    "stage": "Early Revenue",
+    "date_founded": "2023-07-14",
+    "description": "NextApps86 is a FinTech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 87,
+    "name": "BrightSolutions87",
+    "industry": "FinTech",
+    "stage": "Prototype",
+    "date_founded": "2024-09-16",
+    "description": "BrightSolutions87 is a FinTech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 88,
+    "name": "BlueSystems88",
+    "industry": "Fashion",
+    "stage": "Early Revenue",
+    "date_founded": "2024-12-05",
+    "description": "BlueSystems88 is a Fashion startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 89,
+    "name": "BetaTech89",
+    "industry": "AI",
+    "stage": "Growth",
+    "date_founded": "2021-09-17",
+    "description": "BetaTech89 is a AI startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 90,
+    "name": "BrightWorks90",
+    "industry": "Fashion",
+    "stage": "Early Revenue",
+    "date_founded": "2019-06-21",
+    "description": "BrightWorks90 is a Fashion startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 91,
+    "name": "NovaWorks91",
+    "industry": "Food",
+    "stage": "Idea",
+    "date_founded": "2022-12-27",
+    "description": "NovaWorks91 is a Food startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 92,
+    "name": "BlueTech92",
+    "industry": "Sustainability",
+    "stage": "Growth",
+    "date_founded": "2023-10-20",
+    "description": "BlueTech92 is a Sustainability startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 93,
+    "name": "EcoSystems93",
+    "industry": "Health",
+    "stage": "Prototype",
+    "date_founded": "2024-10-24",
+    "description": "EcoSystems93 is a Health startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 94,
+    "name": "SparkDesigns94",
+    "industry": "Fashion",
+    "stage": "Growth",
+    "date_founded": "2019-06-10",
+    "description": "SparkDesigns94 is a Fashion startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 95,
+    "name": "EcoLabs95",
+    "industry": "Fashion",
+    "stage": "Idea",
+    "date_founded": "2023-08-08",
+    "description": "EcoLabs95 is a Fashion startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 96,
+    "name": "FusionApps96",
+    "industry": "Fashion",
+    "stage": "Growth",
+    "date_founded": "2019-09-11",
+    "description": "FusionApps96 is a Fashion startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 97,
+    "name": "GreenWorks97",
+    "industry": "Biotech",
+    "stage": "Early Revenue",
+    "date_founded": "2020-05-12",
+    "description": "GreenWorks97 is a Biotech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 98,
+    "name": "OmniWorks98",
+    "industry": "Biotech",
+    "stage": "Idea",
+    "date_founded": "2024-12-16",
+    "description": "OmniWorks98 is a Biotech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 99,
+    "name": "NextLabs99",
+    "industry": "Food",
+    "stage": "Early Revenue",
+    "date_founded": "2021-01-19",
+    "description": "NextLabs99 is a Food startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 100,
+    "name": "BlueApps100",
+    "industry": "Education",
+    "stage": "Idea",
+    "date_founded": "2020-09-19",
+    "description": "BlueApps100 is a Education startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 101,
+    "name": "FusionApps101",
+    "industry": "FinTech",
+    "stage": "Early Revenue",
+    "date_founded": "2019-04-11",
+    "description": "FusionApps101 is a FinTech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 102,
+    "name": "BlueWorks102",
+    "industry": "E-commerce",
+    "stage": "Prototype",
+    "date_founded": "2021-09-21",
+    "description": "BlueWorks102 is a E-commerce startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 103,
+    "name": "SparkSolutions103",
+    "industry": "Sustainability",
+    "stage": "Growth",
+    "date_founded": "2023-11-24",
+    "description": "SparkSolutions103 is a Sustainability startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 104,
+    "name": "BetaWorks104",
+    "industry": "Education",
+    "stage": "Early Revenue",
+    "date_founded": "2019-03-24",
+    "description": "BetaWorks104 is a Education startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 105,
+    "name": "OmniWorks105",
+    "industry": "Education",
+    "stage": "Idea",
+    "date_founded": "2022-01-27",
+    "description": "OmniWorks105 is a Education startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 106,
+    "name": "NovaSystems106",
+    "industry": "Tech",
+    "stage": "Idea",
+    "date_founded": "2021-03-27",
+    "description": "NovaSystems106 is a Tech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 107,
+    "name": "SparkLabs107",
+    "industry": "Health",
+    "stage": "Prototype",
+    "date_founded": "2018-04-17",
+    "description": "SparkLabs107 is a Health startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 108,
+    "name": "BetaSolutions108",
+    "industry": "Tech",
+    "stage": "Growth",
+    "date_founded": "2023-08-01",
+    "description": "BetaSolutions108 is a Tech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 109,
+    "name": "EcoDesigns109",
+    "industry": "AI",
+    "stage": "Growth",
+    "date_founded": "2018-01-17",
+    "description": "EcoDesigns109 is a AI startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 110,
+    "name": "GreenDesigns110",
+    "industry": "Sustainability",
+    "stage": "Idea",
+    "date_founded": "2022-12-22",
+    "description": "GreenDesigns110 is a Sustainability startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 111,
+    "name": "AlphaSystems111",
+    "industry": "Education",
+    "stage": "Idea",
+    "date_founded": "2018-09-05",
+    "description": "AlphaSystems111 is a Education startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 112,
+    "name": "BlueLabs112",
+    "industry": "E-commerce",
+    "stage": "Early Revenue",
+    "date_founded": "2024-06-09",
+    "description": "BlueLabs112 is a E-commerce startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 113,
+    "name": "AlphaTech113",
+    "industry": "Food",
+    "stage": "Growth",
+    "date_founded": "2021-10-08",
+    "description": "AlphaTech113 is a Food startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 114,
+    "name": "BlueSolutions114",
+    "industry": "Health",
+    "stage": "Idea",
+    "date_founded": "2018-07-13",
+    "description": "BlueSolutions114 is a Health startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 115,
+    "name": "AlphaDesigns115",
+    "industry": "Biotech",
+    "stage": "Idea",
+    "date_founded": "2023-01-23",
+    "description": "AlphaDesigns115 is a Biotech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 116,
+    "name": "BrightTech116",
+    "industry": "Biotech",
+    "stage": "Growth",
+    "date_founded": "2023-06-19",
+    "description": "BrightTech116 is a Biotech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 117,
+    "name": "NovaDesigns117",
+    "industry": "Tech",
+    "stage": "Prototype",
+    "date_founded": "2019-12-19",
+    "description": "NovaDesigns117 is a Tech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 118,
+    "name": "BetaSolutions118",
+    "industry": "Tech",
+    "stage": "Idea",
+    "date_founded": "2023-05-18",
+    "description": "BetaSolutions118 is a Tech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 119,
+    "name": "FusionApps119",
+    "industry": "Tech",
+    "stage": "Prototype",
+    "date_founded": "2024-06-01",
+    "description": "FusionApps119 is a Tech startup focused on innovative solutions."
+  },
+  {
+    "startup_id": 120,
+    "name": "BlueDesigns120",
+    "industry": "Education",
+    "stage": "Growth",
+    "date_founded": "2018-05-06",
+    "description": "BlueDesigns120 is a Education startup focused on innovative solutions."
+  }
+]

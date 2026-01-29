@@ -1,0 +1,467 @@
+[
+  {
+    "mentor_id": 1,
+    "event_id": 42,
+    "role": "Judge"
+  },
+  {
+    "mentor_id": 1,
+    "event_id": 51,
+    "role": "Trainer"
+  },
+  {
+    "mentor_id": 2,
+    "event_id": 27,
+    "role": "Host"
+  },
+  {
+    "mentor_id": 2,
+    "event_id": 29,
+    "role": "Panelist"
+  },
+  {
+    "mentor_id": 5,
+    "event_id": 35,
+    "role": "Judge"
+  },
+  {
+    "mentor_id": 7,
+    "event_id": 28,
+    "role": "Panelist"
+  },
+  {
+    "mentor_id": 7,
+    "event_id": 59,
+    "role": "Speaker"
+  },
+  {
+    "mentor_id": 10,
+    "event_id": 54,
+    "role": "Panelist"
+  },
+  {
+    "mentor_id": 11,
+    "event_id": 42,
+    "role": "Judge"
+  },
+  {
+    "mentor_id": 14,
+    "event_id": 18,
+    "role": "Panelist"
+  },
+  {
+    "mentor_id": 15,
+    "event_id": 54,
+    "role": "Speaker"
+  },
+  {
+    "mentor_id": 16,
+    "event_id": 54,
+    "role": "Judge"
+  },
+  {
+    "mentor_id": 17,
+    "event_id": 54,
+    "role": "Trainer"
+  },
+  {
+    "mentor_id": 17,
+    "event_id": 33,
+    "role": "Host"
+  },
+  {
+    "mentor_id": 19,
+    "event_id": 35,
+    "role": "Trainer"
+  },
+  {
+    "mentor_id": 19,
+    "event_id": 37,
+    "role": "Host"
+  },
+  {
+    "mentor_id": 19,
+    "event_id": 5,
+    "role": "Speaker"
+  },
+  {
+    "mentor_id": 20,
+    "event_id": 8,
+    "role": "Panelist"
+  },
+  {
+    "mentor_id": 20,
+    "event_id": 54,
+    "role": "Trainer"
+  },
+  {
+    "mentor_id": 20,
+    "event_id": 9,
+    "role": "Speaker"
+  },
+  {
+    "mentor_id": 22,
+    "event_id": 33,
+    "role": "Trainer"
+  },
+  {
+    "mentor_id": 22,
+    "event_id": 52,
+    "role": "Trainer"
+  },
+  {
+    "mentor_id": 23,
+    "event_id": 17,
+    "role": "Speaker"
+  },
+  {
+    "mentor_id": 23,
+    "event_id": 49,
+    "role": "Trainer"
+  },
+  {
+    "mentor_id": 23,
+    "event_id": 46,
+    "role": "Judge"
+  },
+  {
+    "mentor_id": 24,
+    "event_id": 21,
+    "role": "Speaker"
+  },
+  {
+    "mentor_id": 24,
+    "event_id": 22,
+    "role": "Panelist"
+  },
+  {
+    "mentor_id": 24,
+    "event_id": 14,
+    "role": "Trainer"
+  },
+  {
+    "mentor_id": 26,
+    "event_id": 9,
+    "role": "Host"
+  },
+  {
+    "mentor_id": 26,
+    "event_id": 42,
+    "role": "Panelist"
+  },
+  {
+    "mentor_id": 26,
+    "event_id": 60,
+    "role": "Speaker"
+  },
+  {
+    "mentor_id": 29,
+    "event_id": 12,
+    "role": "Speaker"
+  },
+  {
+    "mentor_id": 29,
+    "event_id": 27,
+    "role": "Speaker"
+  },
+  {
+    "mentor_id": 29,
+    "event_id": 36,
+    "role": "Panelist"
+  },
+  {
+    "mentor_id": 31,
+    "event_id": 42,
+    "role": "Host"
+  },
+  {
+    "mentor_id": 31,
+    "event_id": 5,
+    "role": "Speaker"
+  },
+  {
+    "mentor_id": 31,
+    "event_id": 35,
+    "role": "Host"
+  },
+  {
+    "mentor_id": 32,
+    "event_id": 53,
+    "role": "Speaker"
+  },
+  {
+    "mentor_id": 33,
+    "event_id": 23,
+    "role": "Judge"
+  },
+  {
+    "mentor_id": 33,
+    "event_id": 25,
+    "role": "Host"
+  },
+  {
+    "mentor_id": 35,
+    "event_id": 24,
+    "role": "Judge"
+  },
+  {
+    "mentor_id": 36,
+    "event_id": 1,
+    "role": "Judge"
+  },
+  {
+    "mentor_id": 37,
+    "event_id": 2,
+    "role": "Trainer"
+  },
+  {
+    "mentor_id": 37,
+    "event_id": 49,
+    "role": "Judge"
+  },
+  {
+    "mentor_id": 37,
+    "event_id": 18,
+    "role": "Host"
+  },
+  {
+    "mentor_id": 38,
+    "event_id": 41,
+    "role": "Judge"
+  },
+  {
+    "mentor_id": 38,
+    "event_id": 20,
+    "role": "Judge"
+  },
+  {
+    "mentor_id": 39,
+    "event_id": 24,
+    "role": "Host"
+  },
+  {
+    "mentor_id": 40,
+    "event_id": 32,
+    "role": "Panelist"
+  },
+  {
+    "mentor_id": 44,
+    "event_id": 26,
+    "role": "Trainer"
+  },
+  {
+    "mentor_id": 44,
+    "event_id": 8,
+    "role": "Panelist"
+  },
+  {
+    "mentor_id": 44,
+    "event_id": 56,
+    "role": "Panelist"
+  },
+  {
+    "mentor_id": 45,
+    "event_id": 11,
+    "role": "Panelist"
+  },
+  {
+    "mentor_id": 47,
+    "event_id": 48,
+    "role": "Panelist"
+  },
+  {
+    "mentor_id": 47,
+    "event_id": 37,
+    "role": "Panelist"
+  },
+  {
+    "mentor_id": 47,
+    "event_id": 44,
+    "role": "Judge"
+  },
+  {
+    "mentor_id": 49,
+    "event_id": 9,
+    "role": "Host"
+  },
+  {
+    "mentor_id": 49,
+    "event_id": 48,
+    "role": "Judge"
+  },
+  {
+    "mentor_id": 50,
+    "event_id": 60,
+    "role": "Panelist"
+  },
+  {
+    "mentor_id": 52,
+    "event_id": 47,
+    "role": "Trainer"
+  },
+  {
+    "mentor_id": 52,
+    "event_id": 51,
+    "role": "Judge"
+  },
+  {
+    "mentor_id": 53,
+    "event_id": 2,
+    "role": "Panelist"
+  },
+  {
+    "mentor_id": 53,
+    "event_id": 45,
+    "role": "Panelist"
+  },
+  {
+    "mentor_id": 53,
+    "event_id": 44,
+    "role": "Trainer"
+  },
+  {
+    "mentor_id": 54,
+    "event_id": 36,
+    "role": "Host"
+  },
+  {
+    "mentor_id": 54,
+    "event_id": 57,
+    "role": "Speaker"
+  },
+  {
+    "mentor_id": 54,
+    "event_id": 30,
+    "role": "Host"
+  },
+  {
+    "mentor_id": 55,
+    "event_id": 28,
+    "role": "Speaker"
+  },
+  {
+    "mentor_id": 56,
+    "event_id": 8,
+    "role": "Panelist"
+  },
+  {
+    "mentor_id": 57,
+    "event_id": 32,
+    "role": "Trainer"
+  },
+  {
+    "mentor_id": 58,
+    "event_id": 49,
+    "role": "Judge"
+  },
+  {
+    "mentor_id": 58,
+    "event_id": 3,
+    "role": "Host"
+  },
+  {
+    "mentor_id": 59,
+    "event_id": 59,
+    "role": "Speaker"
+  },
+  {
+    "mentor_id": 60,
+    "event_id": 29,
+    "role": "Host"
+  },
+  {
+    "mentor_id": 60,
+    "event_id": 21,
+    "role": "Speaker"
+  },
+  {
+    "mentor_id": 62,
+    "event_id": 6,
+    "role": "Panelist"
+  },
+  {
+    "mentor_id": 64,
+    "event_id": 15,
+    "role": "Host"
+  },
+  {
+    "mentor_id": 64,
+    "event_id": 45,
+    "role": "Judge"
+  },
+  {
+    "mentor_id": 64,
+    "event_id": 28,
+    "role": "Judge"
+  },
+  {
+    "mentor_id": 66,
+    "event_id": 20,
+    "role": "Host"
+  },
+  {
+    "mentor_id": 67,
+    "event_id": 41,
+    "role": "Speaker"
+  },
+  {
+    "mentor_id": 67,
+    "event_id": 7,
+    "role": "Speaker"
+  },
+  {
+    "mentor_id": 67,
+    "event_id": 2,
+    "role": "Host"
+  },
+  {
+    "mentor_id": 68,
+    "event_id": 52,
+    "role": "Trainer"
+  },
+  {
+    "mentor_id": 68,
+    "event_id": 41,
+    "role": "Trainer"
+  },
+  {
+    "mentor_id": 71,
+    "event_id": 16,
+    "role": "Trainer"
+  },
+  {
+    "mentor_id": 73,
+    "event_id": 34,
+    "role": "Judge"
+  },
+  {
+    "mentor_id": 75,
+    "event_id": 40,
+    "role": "Host"
+  },
+  {
+    "mentor_id": 75,
+    "event_id": 29,
+    "role": "Speaker"
+  },
+  {
+    "mentor_id": 76,
+    "event_id": 8,
+    "role": "Host"
+  },
+  {
+    "mentor_id": 76,
+    "event_id": 6,
+    "role": "Host"
+  },
+  {
+    "mentor_id": 77,
+    "event_id": 21,
+    "role": "Host"
+  },
+  {
+    "mentor_id": 80,
+    "event_id": 4,
+    "role": "Trainer"
+  }
+]
